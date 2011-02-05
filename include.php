@@ -11,6 +11,13 @@
 	</ul>
 	</div>';
 	};
-print print_header();
-	function print_footer(){};
+print print_footer() {
+	echo '<div id="footer">
+	<ul>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+	</ul>';
+	};
 ?>	
