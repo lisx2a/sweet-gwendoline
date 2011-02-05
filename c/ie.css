@@ -1,0 +1,71 @@
+body {background-color: #000000;}
+
+#header{  margin-top:0;
+	z-index:10; position:absolute; z-index:1;
+}
+#header h1 { margin-left: 14px; 
+}
+#collection { position:absolute;
+	z-index:1; 
+}
+#collection .right{ width:190px;  }
+
+#collection .right p,
+p.txt, #collection .right ul li, 
+#collection .right h4 { margin: 0 0 0 7;
+	line-height:18px; 
+}
+#collection .right ul  { margin:0 0 7px 0; }
+
+#collection .right h3 { line-height:22px; }
+
+#collection .right p { margin: 0 0 7px 7; }
+
+#collection .right ul li{ margin-bottom:3px; 
+	font-size:12px; 
+	font-style:italic; 
+	line-height:13px;
+}
+#collection .right span { width:100%; 
+margin-bottom:7px; 
+float:left; 
+}
+#collection .right span label { width:100%; 
+	margin: 0 0 4px 0; 
+	padding-bottom:4px;  
+	float:left; 
+	font-size:11px; 
+	font-weight:bold; 
+	font-family:arial; 
+	border-bottom:1px dashed #444;
+}
+#collection .right select { width:100%; }
+
+.theProduct .wrapper  { z-index:2;}
+
+.theProduct .wrapper ul { z-index: 5; }
+
+.theProduct .arrow  { z-index:21;}
+
+#contact_info{ position:absolute; 
+	bottom:0; 
+	z-index:1;
+}
+#thumbs { position:absolute; 
+	left: 594px; 
+	margin:0; 
+	float:none; 
+	top:0;z-index:1; 
+	height:750px; 
+	overflow-y:scroll; 
+}
+#thumbs li { padding:7px 0 0 0; } 
+
+#thumbs li.first { padding:28px 0 0 0; 
+	margin-top:0; 
+	display:block; 
+}
+#about_us, #updates { position:absolute; }
+/* design elements */
+div.thumbNav { display:none;}
+a.start-stop { display:none;}
