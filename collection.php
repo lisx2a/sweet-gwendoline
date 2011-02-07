@@ -1,14 +1,23 @@
 ﻿<?php include("_inc/hd.php"); ?>
+<link rel="stylesheet" href="css/main.css" type="text/css" media="screen" /> 
 <div id="main_container">
+<div id="navbar">
+	<ul>
+		<li><img src="images/sglogo_small.png" style="width:250px;display:block;float:left;"/></li>
+		<li style="display:block;float:left;padding:100px 0 0 10px;"><a href="collection.php">COLLECTION</a></li>
+		<li style="display:block;float:left;padding:100px 0 0 40px;"><a href="updates.php">NEWS & EVENTS</a></li>
+		<li style="display:block;float:left;padding:100px 0 0 40px;"><a href="about.php">ABOUT US</a></li>
+		<li style="display:block;float:left;padding:100px 0 0 40px;"><a href="#">LINKS</a></li>
+		<li style="display:block;float:left;padding:100px 0 0 40px;"><a href="contactus.php">CONTACT</a></li>
+	</ul></div>
 								<div id="collection">
 															<img src="images/collections_header.jpg" alt=" Sweet Gwendoline Clothing Collection" />
 															<br />
-															<p style="float:right; margin:10px 0 0 0;font-size:.8em">Scroll down for Full Collection</p>
 								<div id="product_container">
 										<div class="product"><a href="waspwaist.php">
 												<img src="images/wasp-waist-karen.jpg" style="width:177px;" /></a>
 														<p class="details">Wasp Waist<br />$28.00<br /></p>
-																	<div class="frm">
+																	<!--div class="frm">
 																			<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 																				<input name="cmd" value="_xclick" type="hidden">
 																				<input name="business" value="jj.sweetgwendoline@gmail.com" type="hidden">
@@ -19,12 +28,12 @@
 																				<input class="buybtn" name="submit" value="" title="Buy now with PayPal" type="submit">
 																				<input name="add" value="1" type="hidden">
 																			</form>
-																	</div>
+																	</div-->
 										</div>
 										<div class="product">
-											<img src="images/butterfly-in-heels-karen.jpg" style="width:177px;" />
-											<p class="details">Butterfly in Heels<br />$33.00<br /><a href="butterfly-heels.php">Take a Peek</a></p>
-														<div class="frm">
+										<a href="butterfly-heels.php"><img src="images/butterfly-in-heels-karen.jpg" style="width:177px;" /></a>
+											<p class="details">Butterfly in Heels<br />$33.00</p>
+														<!--div class="frm">
 																<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 																	<input name="cmd" value="_xclick" type="hidden">
 																	<input name="business" value="jj.sweetgwendoline@gmail.com" type="hidden">
@@ -35,7 +44,7 @@
 																	<input class="buybtn" name="submit" value="" title="Buy now with PayPal" type="submit">
 																	<input name="add" value="1" type="hidden">
 																</form>
-														</div>
+														</div-->
 										</div>
 
 										<div class="product"><a href="about-this-tank.php">
@@ -227,6 +236,12 @@
 												</form>
 										</div-->
 							</div>
+							<div style="clear:both"><br /></div>
+							<div style="height:50px;width:500px;margin-top:80px;position:relative">
+	
+	<p><small>&copy;2010 Sweet Gwendoline Clothing LLC</small> | <small><a href="#">Terms & Conditions</a></small></p>
+</div>
 					</div>
 		</div>
+
 </div>

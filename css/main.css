@@ -1,12 +1,6 @@
 /*CSS Reset*/
-div,dl,dt,dd,
-ul,ol,li,h1,h2,h3,
-h4,h5,h6,pre,form,
-fieldset,input,textarea,
-p,blockquote,th,td { 
-	margin:0;
+* {margin:0;
 	padding:0;}
-
 table {
 	border-collapse:collapse;
 	border-spacing:0;
@@ -73,16 +67,14 @@ body.splash {
 	padding:0;}
 
 
-/*#DOMWindow { text-align:center;}
 
 /*Navigation*/
-#navbar{ margin:0 0 0 -30px;
+#navbar{ margin-left:-20px ;
 	position:relative; 
-	font-size:0.9em;}
+	font-size:0.9em;
+	height:150px;}
 
-#navbar ul,li {
-	list-style:none;
-	display: block;
+/*#navbar li {
 	float:left;}
 
 /*Footer*/
@@ -98,7 +90,7 @@ body.splash {
 /*collection*/
 #collection, #updates, #contact, #about_us { 
 	position:relative;
-	margin:140px 0 0 0;}
+	margin: 0;}
 
 div.frm { 
 		margin:0;
@@ -112,18 +104,18 @@ div.frm {
 	margin:30px 0 0 0;}
 
 .product {
-	height:310px;
+	height:220px;
 	width:177px;
 	float:left;
 	position:relative;
-	margin:0 15px 10px 0;}
+	margin:0 15px 0px 0;}
 
 .product-last {
 	height:310px;
 	width:177px;
 	position:relative;
 	float:left;
-	margin-bottom:10px;}
+	margin-bottom:0px;}
 
 .details {
 	font:.8em "Times New Roman", Serif;}

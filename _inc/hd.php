@@ -1,6 +1,6 @@
 ﻿<?php ini_set('error_reporting', 0); ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-	"http> 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <head> 
 <title>The Adventures of Sweet Gwendoline</title> 
 <meta charset="utf-8"/>
@@ -39,7 +39,7 @@
 <body>
 
 <!-- begin site -->
-<div id="main_container">
+<!--div id="main_container">
 	<div id="navbar">
 	<ul>
 		<li><img src="images/sglogo_small.png" style="width:250px;"/></li>
@@ -48,7 +48,7 @@
 		<li style="padding:100px 0 0 50px;"><a href="about.php">ABOUT US</a></li>
 		<li style="padding:100px 0 0 50px;"><a href="contactus.php">CONTACT</a></li>
 	</ul>
-	</div>
+	</div-->
 	
 	<!--? /*
 	<div id="social">
@@ -67,6 +67,6 @@
 		</form>
 	</div>
 	*/ ?-->
-	</div>
+	<!--/div-->
 	</body>
 </html>

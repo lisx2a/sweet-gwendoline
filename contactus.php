@@ -1,6 +1,14 @@
 <?php include("_inc/hd.php"); ?>
-	
-<div style="width:754px;margin:22px auto 0 auto">
+<div id="main_container">
+<div id="navbar">
+	<ul>
+		<li><img src="images/sglogo_small.png" style="width:250px;display:block;float:left;"/></li>
+		<li style="display:block;float:left;padding:100px 0 0 10px;"><a href="collection.php">COLLECTION</a></li>
+		<li style="display:block;float:left;padding:100px 0 0 40px;"><a href="updates.php">NEWS & EVENTS</a></li>
+		<li style="display:block;float:left;padding:100px 0 0 40px;"><a href="about.php">ABOUT US</a></li>
+		<li style="display:block;float:left;padding:100px 0 0 40px;"><a href="#">LINKS</a></li>
+		<li style="display:block;float:left;padding:100px 0 0 40px;"><a href="contactus.php">CONTACT</a></li>
+	</ul></div>
 
 <img src="images/collections_header.jpg" width="754"/>
 <div style="margin:30px 0 0 0;">
