@@ -2,18 +2,30 @@
 <div id="main_container">
 		<div id="productpage_container">	<p style="width:270px;margin: 20px 0 0 34px;">ABOUT THESE CORSETS<br /><br />
 										 Regular-fit cotton jersey scoop-neck tee. Cotton poplin chest pocket and cotton poplin trim detailing give a unique texture with an amazingly soft finish.<br />Sexy and provacative, fit for a queen.</p><br />
+								<ul>
+										<li>100% cotton jersey</li>
+										<li>garment dayed & washed for a super soft hand</li>
+								</ul>
 										<p style="margin: 5px 0 0 34px;">S, M, L<br />$40.00<br /></p>
 						<div style="margin:-27px 0 0 100px;">
-							<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-																	<input name="cmd" value="_xclick" type="hidden">
-																	<input name="business" value="jj.sweetgwendoline@gmail.com" type="hidden">
-																	<input name="item_name" value="About These Corsets - scoop-neck tee" type="hidden">
-																	<input name="amount" value="40.00" type="hidden">
-																	<input name="no_note" value="1" type="hidden">
-																	<input name="currency_code" value="USD" type="hidden">
-																	<input class="buybtn" name="submit" value="" title="Buy now with PayPal" type="submit">
-																	<input name="add" value="1" type="hidden">
-																</form>
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="GMBSMLV8768LU">
+<table>
+<tr><td><input type="hidden" name="on0" value="Size">Size</td></tr><tr><td><select name="os0">
+	<option value="Small">Small </option>
+	<option value="Medium">Medium </option>
+	<option value="Large">Large </option>
+</select> </td></tr>
+<tr><td><input type="hidden" name="on1" value="Colors">Colors</td></tr><tr><td><select name="os1">
+	<option value="White">White </option>
+	<option value="Chocolate">Chocolate </option>
+</select> </td></tr>
+</table>
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+				
 						</div>
 						<p style="margin:55px 0 0 34px; position:absolute;width:100px;">Shown in Black</p>
 
