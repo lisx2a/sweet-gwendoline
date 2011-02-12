@@ -169,7 +169,7 @@
 								
 							<div class="product"><a href="corset-boy.php">
 											<img src="images/corset-boy-beater.jpg" style="width:177px;" /></a>
-											<p class="details">Corset<br />$48.00<br /></p>
+											<p class="details">Corseted Boy Beater<br />$48.00<br /></p>
 									<!--div class="frm">
 											<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 												<input name="cmd" value="_xclick" type="hidden">
@@ -202,7 +202,7 @@
 								
 							<div class="product-last"><a href="wench-boy.php">
 											<img src="images/wench-boy-karen.jpg" style="width:177px;" /></a>
-											<p class="details">Wench Boy<br />$48.00<br /></p>
+											<p class="details">Wench Boy Beater<br />$48.00<br /></p>
 											<!--div class="frm">
 											<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<input name="cmd" value="_xclick" type="hidden">

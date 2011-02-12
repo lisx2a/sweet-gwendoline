@@ -4,7 +4,7 @@
 										 Regular-fit cotton jersey scoop-neck tee. Cotton poplin chest pocket and cotton poplin trim detailing give a unique texture with an amazingly soft finish.<br />Sexy and provacative, fit for a queen.</p><br />
 								<ul>
 										<li>100% cotton jersey</li>
-										<li>garment dayed & washed for a super soft hand</li>
+										<li>garment dayed &amp; washed for a super soft hand</li>
 								</ul>
 										<p style="margin: 5px 0 0 34px;">S, M, L<br />$40.00<br /></p>
 						<div style="margin:-27px 0 0 100px;">

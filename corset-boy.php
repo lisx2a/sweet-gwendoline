@@ -1,4 +1,6 @@
-<?php include("_inc/hd.php"); ?>
+<?php include("../include.php"); ?>
+
+<link rel="stylesheet" type="text/css" href="css/main.css">
 <div id="main_container">
 		<div id="productpage_container">	<p style="width:270px;margin: 20px 0 0 34px;">CORSETED BOY BEATER<br /><br />
 										 Our Corseted Boy Beater takes a little of what's on the inside and celebrates it on the outside. A fully corseted back makes this piece a one of a
@@ -22,14 +24,16 @@
 
 																		
 						</div>
+
 						<p style="margin:55px 0 0 34px; position:absolute;width:100px;">Front</p>
 						<p style="margin:55px 34px 0 0; float:right; position:absolute;width:100px;">Back</p>
 										<ul>
-							<li>available in White</li>
+							<li>available only in White</li>
 							<li>100% cotton 2x1 rib</li>
 							<li>corset back</li>
 							<li>lace ribbon</li>
 							<li>washed for a super soft hand</li>
+							<li>laced-up back with ribbon</li>
 						</ul>
 						 
 

@@ -20,4 +20,14 @@ print print_footer() {
 		<li></li>
 	</ul>';
 	};
-?>	
+function _hello() {
+	echo "hello";
+};
+?>
+<html DOCTYPE>
+<head>
+<title>Corseted Boy Beater | Sweet Gwendoline Clothing</title>
+</head>
+<body>
+</body>
+</html>

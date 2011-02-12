@@ -1,0 +1,352 @@
+/*CSS Reset*/
+* {margin:0;
+	padding:0;}
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+	padding:0;}
+
+fieldset,img { 
+	border:0;
+	padding:0;}
+
+address,caption,cite,code,dfn,em,strong,th,var {
+	font-style:normal;
+	font-weight:normal;}
+
+ol,ul {
+	list-style:none;
+}
+caption,th {
+	text-align:left;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-size:100%;
+	font-weight:normal;
+}
+q:before, q:after {
+	content:'';
+}
+abbr,acronym { border:0;}
+
+a {margin:0;
+	padding:0;
+	text-decoration:none;
+	color:white;
+	font-style:oblique;}
+
+a:hover {color:#8A264E;
+	text-decoration:none;}
+
+body {
+	background-color: #000000;
+	margin:0;
+	padding:0;
+	font-family: "Trebuchet MS","Palatino Linotype",Palatino, Georgia Serif, Helvetica Sans-Serif;
+	color:white;}
+
+#main_container {
+	margin:0 auto 0 auto;
+	width:754px;
+	position:relative;}
+
+#main_container h1 {display:none;}
+
+.splash {
+	text-align:center;
+	margin:15% auto;
+	padding:0;}
+
+.splash h1 {
+	display:none;}
+
+/*splash page */
+body.splash {
+	background:url(../i/wp-bg.jpg)  0 0 repeat-x;
+	margin:0;
+	padding:0;}
+
+
+
+/*Navigation*/
+#navbar{ margin-left:-20px ;
+	position:relative; 
+	font-size:0.9em;
+	height:150px;}
+
+/*#navbar li {
+	float:left;}
+
+/*Footer*/
+
+#footer { 
+	position:absolute;
+	margin:30px auto 0 auto;}
+
+#footer ul li{
+	list-style:none;
+	display: block;}
+
+/*collection*/
+#collection, #updates, #contact, #about_us { 
+	position:relative;
+	margin: 0;}
+
+div.frm { 
+		margin:0;
+		padding:0;}
+
+/*Product*/
+
+#product_container { 
+	width:100%;
+	position: absolute; 
+	margin:30px 0 0 0;}
+
+.product {
+	height:220px;
+	width:177px;
+	float:left;
+	position:relative;
+	margin:0 15px 0px 0;}
+
+.product-last {
+	height:310px;
+	width:177px;
+	position:relative;
+	float:left;
+	margin-bottom:0px;}
+
+.details {
+	font:.8em "Times New Roman", Serif;}
+
+.buybtn {background:url(../images/buy_btn.png) no-repeat -5px -34px;
+	border:none;
+	height:20px;
+	width:50px;
+	padding:0;
+	margin:5px 0 0 0;}
+
+.buybtn:hover {background:url(../images/buy_btn.png) no-repeat -5px -5px;}
+
+/*Individual Product Pages*/
+
+#productpage_container {background: url(../i/wp-bg.jpg) 0 0 no-repeat;
+	width:100%;
+	position:absolute; 
+	margin:140px 0 50px 0;}
+/*from old site*/
+		
+
+.theProduct .wrapper { width: 600px; 
+	overflow: hidden; 
+	height: 666px; 
+	margin: 0 0; 
+	position: absolute; 
+	top: 0; left: 0; 
+}
+.theProduct .wrapper ul {width: 42000px; 
+	list-style: none; 
+	position: absolute; 
+	top: 0; left: 0;  
+	margin: 0; 
+}
+.theProduct ul li { display: block; 
+	float: left; 
+	padding: 0; 
+	height: 317px; 
+	width: 680px; 
+	margin: 0;
+}
+.theProduct .arrow{ display: block; 
+	height: 60px; 
+	width: 30px; 
+	background: url(../i/arrows_new.png) no-repeat 0 0; 
+	text-indent: -9999px; 
+	position: absolute; 
+	top: 375px; 
+	cursor: pointer; 
+}
+.theProduct .forward { background-position: -30px 0;
+	right: 21px; 
+}
+.theProduct .back { background-position: 0 0; 
+	left:  21px;
+}
+.theProduct .forward:hover { background-position: -30px 0px; }
+
+.theProduct .back:hover { background-position: 0 0; }
+#thumbs { position:absolute; 
+	left: 594px; 
+	margin:0; 
+	float:none; 
+	top:0;z-index:1; 
+	height:750px; 
+	overflow-y:scroll; 
+}
+#thumbs li { padding:7px 0 0 0; } 
+
+#thumbs li.first { padding:28px 0 0 0; 
+	margin-top:0; 
+	display:block; 
+}
+
+.thumbNav  li { display:none; }
+
+.thumbNav li.foward, .thumbNav li.back{ display:block;}
+
+.start-stop { display:none; }
+
+/* Prevents */
+.theProduct .wrapper ul ul { position: static; 
+	margin: 0; 
+	background: none; 
+	overflow: visible; 
+	width: auto; 
+	border: 0; 
+}
+.theProduct .wrapper ul ul li { float: none; 
+	height: auto;
+	width: auto; 
+	background: none; 
+}
+#thumbs {  background:transparent; 
+	float:left;  
+	width:114px; 
+	height:100%; 
+	margin: 0 0 0 994px; 
+	padding:0;
+}
+#thumbs ul {  height:100%; 
+	float:left; 
+	clear:both;
+}
+#thumbs li { text-align:center; 
+	margin:0; 
+	padding:0 7px; 
+	width:96px; 
+	height:96px; 
+	overflow:hidden; 
+	cursor:pointer;
+}
+#thumbs li span{ width:86px; 
+	height:86px; 
+	overflow:hidden;
+}
+#thumbs li img{ width:86px; }
+ 
+#thumbs li.first { padding-top:28px; }
+
+#thumbs li.last { margin-bottom: 0; }
+
+#thumbs li.selected {}
+
+
+
+
+/* design elements */
+div.thumbNav { display:none;}
+a.start-stop { display:none;}
+
+.wrp {float:left; width:580px; clear:both; }
+.right{ float:right; }
+
+/* site header */
+#header{ 
+	 margin: 0 0 14px 0;
+	 padding:28px 0;
+	 height:200px;
+	 width: 367px;
+	 top:0; left:120px;
+	 position:absolute;
+	 border:2px solid #000;
+} 
+#header h1 {text-indent:-9999px; background:url(../images/sglogo_small.png) no-repeat 0 0;
+	 width:327px;
+	 height:197px;
+	 margin:0 auto;
+}
+#header h1 a { width:100%;
+	       height:100%;
+	       display:block; 
+}
+#header a.selected { color:#911; 
+}
+#header #social { width:367px;
+	 clear:both;
+	 float:left;
+	 margin: 14px 0 14px 21px;
+         display:none;
+}
+#header #social li{ float:left;
+	 margin: 0 0 0 7px;
+}
+a#twitter{ background:url(../i/twitter-32x32.png) 0 0 no-repeat;
+	width:32px;
+	height:32px; 
+	display:block;
+	text-indent:-9999px;
+}
+a#facebook{ background:url(../i/facebook-32x32.png) 0 0 no-repeat;
+	width:32px;
+	height:32px;
+	display:block;
+	text-indent:-9999px;
+}
+a#youtube{ background:url(../i/youtube-32x32.png) 0 0 no-repeat;
+	width:32px;
+	height:32px;
+display:block;
+	text-indent:-9999px;
+}
+a#flickr{ background:url(../i/flickr-32x32.png) 0 0 no-repeat;
+	width:32px; 
+	height:32px; 
+	display:block; 
+	text-indent:-9999px; 
+}
+a#rss{ background:url(../i/feed-32x32.png) 0 0 no-repeat; 
+	width:32px; 
+	height:32px; 
+	display:block; 
+	text-indent:-9999px;
+}
+#email_signup { display:none;
+}
+
+/* about & updates */
+
+#about_us h3,#updates h3 { margin: 0 0 14px 14px;
+	font-size:2em; }
+
+#updates ul{
+	display:block;}
+
+#updates li{ float:left;
+	font-family:Georgia;  
+	font-size:17px; 
+	line-height:1.075; 
+	padding:0 14px 21px 14px;
+	margin: 0; }
+
+#updates li small { float:left;  
+	width:100%; 
+	font-size:13px; 
+	font-style:italic; 
+	color:#CCC; 
+	margin:3px 0 0 0;
+}
+
+#about_us br { margin: 0 0 21px 0px; }
+
+
+
+/* design elements */
+#shadow{background:url(../i/shadow.png) left top repeat-x;
+	width:100%;
+	height:100%; 
+	position:fixed; 
+	*position:absolute;
+	left:0;top:0;
+	z-index:-1;
+}

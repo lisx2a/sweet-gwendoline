@@ -2,6 +2,11 @@
 <div id="main_container">
 		<div id="productpage_container">	<p style="width:270px;margin: 20px 0 0 34px;">BUTTERFLY IN HEELS<br /><br />
 										 Come out of your cocoon in our women's slim fot short sleeve v-neck tee. Perfect fit; shows just enough to make things interesting.</p><br />
+								<ul>
+									<li>100% cotton jersey</li>
+									<li>garment dyed &amp; washed for a super soft hand</li>
+								</ul>
+
 										<p style="margin: 5px 0 0 34px;">S, M, L<br />$33.00<br /></p>
 						<div style="margin:-27px 0 0 100px;">
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -15,7 +20,7 @@
 </select> </td></tr>
 <tr><td><input type="hidden" name="on1" value="Colors">Colors</td></tr><tr><td><select name="os1">
 	<option value="Cream">Cream </option>
-	<option value="Chocolate">Chocolate </option>
+	<option value="Chocolate">Chocolate</option>
 </select> </td></tr>
 </table>
 <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">

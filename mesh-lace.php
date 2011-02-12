@@ -2,6 +2,12 @@
 <div id="main_container">
 		<div id="productpage_container">	<p style="width:270px;margin: 20px 0 0 34px;">MESH AND LACE BOY BEATER<br /><br />
 										The flexible mesh side panels make this modified Boy Beater fit to every bend. Comfortable but controlled, its like wearing a silky second skin.</p><p style="width:270px; margin:20px 0 0 34px;">Always taking it step further, Sweet Gwendoline will be pushing the boundaries of Tradition.</p><br />
+								<ul>
+								<li>available in White only</li>
+								<li>100% cotton 2x1 rib</li>
+								<li>washed for a super soft hand</li>
+								<li>latex mesh side panels</li>
+								</ul>
 										<p style="margin: 5px 0 0 34px;">S, M, L<br />$48.00<br /></p>
 						<div style="margin:-27px 0 0 100px;">
 
