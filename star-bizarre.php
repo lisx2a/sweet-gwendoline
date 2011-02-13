@@ -2,7 +2,11 @@
 <div id="main_container">
 		<div id="productpage_container">	<p style="width:270px;margin: 20px 0 0 34px;">STAR BIZARRE<br /><br />
 									 Differnt is good. The women's slim fit basic rib tank. Molds to the body and fits like a glove every time.
-									</p><br />
+									</p><br /><ul>
+											<li>100% cotton 2x1 rib</li>
+											<li>garment dyed &amp; washed for a super soft hand</li>
+										</ul>
+
 										<p style="margin: 5px 0 0 34px;">S, M, L<br />$28.00<br /></p>
 						<div style="margin:-27px 0 0 100px;">
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">

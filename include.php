@@ -21,13 +21,15 @@ print print_footer() {
 	</ul>';
 	};
 function _hello() {
-	echo "hello";
+	echo "hello"
 };
 ?>
-<html DOCTYPE>
+<!doctype html>
 <head>
+ <!--Built by Lissa Aguilar with Photography by Shanon Moran-->
 <title>Corseted Boy Beater | Sweet Gwendoline Clothing</title>
 </head>
 <body>
+<p>footer</p>
 </body>
 </html>

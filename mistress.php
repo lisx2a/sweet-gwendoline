@@ -1,7 +1,11 @@
 <?php include("_inc/hd.php"); ?>
 <div id="main_container">
 		<div id="productpage_container">	<p style="width:270px;margin: 20px 0 0 34px;">MISTRESS<br /><br />
-										Yes, Ma'am. It's our women's slim fit short sleeve v-neck tee. Perfect fit; shows just enough to make things interesting.</p><br />
+										Yes, Ma'am. It's our women's slim fit short sleeve v-neck tee. Perfect fit; shows just enough to make things interesting.</p><br /><ul>
+											<li>100% cotton 2x1 rib</li>
+											<li>garment dyed &amp; washed for a super soft hand</li>
+										</ul>
+
 										<p style="margin: 5px 0 0 34px;">S, M, L<br />$33.00<br /></p>
 						<div style="margin:-27px 0 0 100px;">
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">

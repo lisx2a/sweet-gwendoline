@@ -2,7 +2,11 @@
 <?php include("_inc/hd.php"); ?>
 <div id="main_container">
 		<div id="productpage_container">	<p style="width:270px;margin: 20px 0 0 34px;">WENCH BOY BEATER<br /><br />
-										It's our twist on the classic rib tank. A fitted body with a lace up front gives you an elegent extra to accent your form.</p><br />
+										It's our twist on the classic rib tank. A fitted body with a lace up front gives you an elegent extra to accent your form.</p><br /><ul>
+											<li>100% cotton 2x1 rib</li>
+											<li>garment dyed &amp; washed for a super soft hand</li>
+										</ul>
+
 										<p style="margin: 5px 0 0 34px;">S, M, L<br />$48.00<br /></p>
 						<div style="margin:-27px 0 0 100px;">
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
