@@ -1,5 +1,4 @@
-<?php include("_inc/hd.php"); ?>
-<div id="main_container">
+<?php require_once 'header.php'; ?>
 		<div id="productpage_container">	<p style="width:270px;margin: 20px 0 0 34px;">MESH AND LACE BOY BEATER<br /><br />
 										The flexible mesh side panels make this modified Boy Beater fit to every bend. Comfortable but controlled, its like wearing a silky second skin.</p><p style="width:270px; margin:20px 0 0 34px;">Always taking it step further, Sweet Gwendoline will be pushing the boundaries of Tradition.</p><br />
 								<ul>
@@ -45,4 +44,4 @@
 									
 		</div>
 		<div></div>
-</div>
+<?php require_once 'footer.php'; ?>

@@ -1,8 +1,6 @@
-﻿<?php include("include.php"); ?>
-
+﻿
 <? include("_inc/ft.php"); ?>
 
-<link rel="stylesheet" type="text/css" href="css/main.css">
 
 <script type="text/javascript" src="jquery-1.4.4.min.js"></script>
 <script type="text/javascript">

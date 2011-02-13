@@ -1,7 +1,6 @@
-<?php include("_inc/hd.php"); ?>
-<div id="main_container">
+<?php require_once 'header.php'; ?>
 		<div id="productpage_container">
-										<p style="width:270px; margin: 20px 0 0 34px;">TIED UP FOR TEA<br />Tea Cup and Saucer<br /><br />
+										<p style="width:280px; margin: 20px 0 0 34px;">TIED UP FOR TEA<br />Tea Cup and Saucer<br /><br />
 										When performing the ritual of Tea Time, make sure you're in control. With the Sweet Gwendoline tea cup and saucer, passion is only a sip away.
 										</p><br />
 										<p style="margin: 5px 0 0 34px;">S, M, L<br />$20.00<br /></p>
@@ -29,4 +28,4 @@
 									
 		</div>
 		<div></div>
-</div>
+<?php require_once 'footer.php'; ?>

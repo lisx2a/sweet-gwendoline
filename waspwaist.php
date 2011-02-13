@@ -1,6 +1,4 @@
-
-<?php include("_inc/hd.php"); ?>
-<div id="main_container">
+<?php require_once 'header.php'; ?>
 		<div id="productpage_container">	<p style="width:270px;margin: 20px 0 0 34px;">WASP WAIST</p><br /><p style="width:270px;margin: 0px 0 0 34px;font-family:Trebuchet MS;">
 										The women's slim fit basic rib tank. All the pleasure without the pain. Molds to the body and fits
 										like a glove every time.</p><br />
@@ -48,4 +46,4 @@
 									
 		</div>
 		<div></div>
-</div>
+<?php require_once 'footer.php'; ?>

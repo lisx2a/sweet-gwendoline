@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php require_once 'header.php'; ?>
 <img src="images/collections_header.jpg" width="754"/>
 <div style="margin:30px 0 0 0;">
 <ul>
@@ -10,5 +10,5 @@
 	<ul>
 	<li><small>&copy;2010 Sweet Gwendoline Clothing LLC</small></li></ul>
 </div>
-<?php include 'footer.php' ?>
+<?php require_once 'footer.php'; ?>
 

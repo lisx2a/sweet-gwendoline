@@ -1,5 +1,4 @@
-<?php include("_inc/hd.php"); ?>
-<div id="main_container">
+<?php require_once 'header.php' ?>
 		<div id="productpage_container">	<p style="width:270px;margin: 20px 0 0 34px;">PLEAD<br /><br />
 										There just aren't any words that describe this women's slim fit basic rib tank. Molds to the body and fits
 										like a glove every time.</p><br />
@@ -27,8 +26,8 @@
 	<option value="Large">Large </option>
 </select> </td></tr>
 <tr><td><input type="hidden" name="on1" value="Colors">Colors</td></tr><tr><td><select name="os1">
-	<option value="White">White </option>
-	<option value="Chocolate">Chocolate </option>
+	<option value="White">White</option>
+	<option value="Chocolate">Chocolate</option>
 </select> </td></tr>
 </table>
 <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
@@ -46,4 +45,4 @@
 									
 		</div>
 		<div></div>
-</div>
+<?php require_once 'footer.php' ?>

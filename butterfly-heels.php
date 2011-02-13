@@ -1,5 +1,4 @@
-<?php include("_inc/hd.php"); ?>
-<div id="main_container">
+<?php require_once 'header.php'; ?>
 		<div id="productpage_container">	<p style="width:270px;margin: 20px 0 0 34px;">BUTTERFLY IN HEELS<br /><br />
 										 Come out of your cocoon in our women's slim fot short sleeve v-neck tee. Perfect fit; shows just enough to make things interesting.</p><br />
 								<ul>
@@ -38,4 +37,4 @@
 									
 		</div>
 		<div></div>
-</div>
+<?php require_once 'footer.php'; ?>

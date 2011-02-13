@@ -1,15 +1,6 @@
-﻿<?php include("_inc/hd.php"); ?>
+﻿<?php require_once 'header.php'; ?>
 	
-<div id="main_container">
-<div id="navbar">
-	<ul>
-		<li><img src="images/sglogo_small.png" style="width:250px;display:block;float:left;"/></li>
-		<li style="display:block;float:left;padding:100px 0 0 10px;"><a href="collection.php">COLLECTION</a></li>
-		<li style="display:block;float:left;padding:100px 0 0 40px;"><a href="updates.php">NEWS & EVENTS</a></li>
-		<li style="display:block;float:left;padding:100px 0 0 40px;"><a href="about.php">ABOUT US</a></li>
-		<li style="display:block;float:left;padding:100px 0 0 40px;"><a href="#">LINKS</a></li>
-		<li style="display:block;float:left;padding:100px 0 0 40px;"><a href="contactus.php">CONTACT</a></li>
-	</ul></div>
+
 	<div id="about_us"> 
 			<img src="images/aboutus_header.jpg" alt="Sweet Gwendoline CLothing About Us" />
 
@@ -36,12 +27,7 @@
 
 		</div>	
 		<div style="clear:both"><br /></div>
-							<div style="height:50px;width:500px;margin-top:80px;position:relative">
-	
-	<p><small>&copy;2010 Sweet Gwendoline Clothing LLC</small> | <small><a href="#">Terms & Conditions</a></small></p>
-</div>
-	
-</div>
+								
 
-
+<?php require_once 'footer.php'; ?>
 

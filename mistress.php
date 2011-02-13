@@ -1,5 +1,4 @@
-<?php include("_inc/hd.php"); ?>
-<div id="main_container">
+<?php require_once 'headeer.php'; ?>
 		<div id="productpage_container">	<p style="width:270px;margin: 20px 0 0 34px;">MISTRESS<br /><br />
 										Yes, Ma'am. It's our women's slim fit short sleeve v-neck tee. Perfect fit; shows just enough to make things interesting.</p><br /><ul>
 											<li>100% cotton 2x1 rib</li>
@@ -45,4 +44,4 @@
 									
 		</div>
 		<div></div>
-</div>
+<?php require_once 'footer.php'; ?>

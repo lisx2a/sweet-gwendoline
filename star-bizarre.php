@@ -1,5 +1,4 @@
-<?php include("_inc/hd.php"); ?>
-<div id="main_container">
+<?php require_once 'header.php'; ?>
 		<div id="productpage_container">	<p style="width:270px;margin: 20px 0 0 34px;">STAR BIZARRE<br /><br />
 									 Differnt is good. The women's slim fit basic rib tank. Molds to the body and fits like a glove every time.
 									</p><br /><ul>
@@ -46,4 +45,4 @@
 									
 		</div>
 		<div></div>
-</div>
+<?php require_once 'footer.php'; ?>

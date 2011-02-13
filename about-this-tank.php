@@ -1,5 +1,4 @@
-<?php include("_inc/hd.php"); ?>
-<div id="main_container">
+<?php require_once 'header.php'; ?>
 		<div id="productpage_container">	<p style="width:270px;margin: 20px 0 0 34px;">ABOUT THESE CORSETS<br /><br />
 										 Regular-fit cotton jersey scoop-neck tee. Cotton poplin chest pocket and cotton poplin trim detailing give a unique texture with an amazingly soft finish.<br />Sexy and provacative, fit for a queen.</p><br />
 								<ul>
@@ -38,4 +37,4 @@
 									
 		</div>
 		<div></div>
-</div>
+<?php require_once 'footer.php'; ?>
