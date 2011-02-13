@@ -1,18 +1,18 @@
-﻿
-<? include("_inc/ft.php"); ?>
+﻿<?php include("_inc/ft.php"); ?>
 
+<link rel="stylesheet" type="text/css" href="css/main.css">
 
 <script type="text/javascript" src="jquery-1.4.4.min.js"></script>
 <script type="text/javascript">
 	$(function() {
-		var fade1 = $(".splash");
-		var fade2 = $("#fade2");
+	//	var fade1 = $(".splash");
+		var fade2 = $("body");
 		fade1.hide();
 		fade2.hide();
 
 		$(window).load(function() {
-			setTimeout(function() { fade1.fadeIn(500); }, 500);
-			setTimeout(function() { fade2.fadeIn(700); }, 800);
+			//setTimeout(function() { fade1.fadeIn(500); }, 500);
+			setTimeout(function() { fade2.fadeIn(9000); }, 800);
 		});
 
 		$("#fade2").css("opacity", 0.8);

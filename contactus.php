@@ -6,9 +6,5 @@
 	<li>JJ | 520.981.7330 | <a title="Email JJ" href="mailto:jj@sweetgwendolineclothing.com">jj@sweetgwendolineclothing.com</a></li>
 	</ul>
 </div>
-<div style="margin-top:80px;">
-	<ul>
-	<li><small>&copy;2010 Sweet Gwendoline Clothing LLC</small></li></ul>
-</div>
 <?php require_once 'footer.php'; ?>
 
