@@ -1,28 +1,25 @@
-﻿<?php include("_inc/ft.php"); ?>
-
-<link rel="stylesheet" type="text/css" href="css/main.css">
+﻿<?php include("_inc/splash_hd.php"); ?>
 
 <script type="text/javascript" src="jquery-1.4.4.min.js"></script>
 <script type="text/javascript">
 	$(function() {
-	//	var fade1 = $(".splash");
-		var fade2 = $("body");
+		//var fade1 = $(".fade1");
+		var fade2 = $("div.splash");
 		fade1.hide();
 		fade2.hide();
 
 		$(window).load(function() {
-			//setTimeout(function() { fade1.fadeIn(500); }, 500);
-			setTimeout(function() { fade2.fadeIn(9000); }, 800);
+			//setTimeout(function() { fade1.fadeIn(800); }, 500);
+			setTimeout(function() { fade2.fadeIn(700); }, 800);
 		});
 
-		$("#fade2").css("opacity", 0.8);
 	});
 
 </script>
 
-<body class="splash" id="fade2">
-
+<body class="splash">
 <div class="splash">  
 	<a href="collection.php"><img src="images/logo_landingpage.png" width="480px" /></a><h1>Sweet Gwendoline Clothing</h1>
 </div>
-<body>
+</body>
+</html>

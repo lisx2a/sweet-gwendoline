@@ -35,15 +35,42 @@
   })();
 
 </script>
-<script type="text/javascript" src="scripts/jquery-1.4.4.min.js" ></script>
-<script type="text/javascript">
+<style>
+#bg { position: fixed; }
+#bg div {
+height:200%;
+left:-50%;
+position:absolute;
+top:-50%;
+width:200%;
+}
 
- $(document).ready(function(){
-   $("body").fadeIn("slow");
- });
-</script>
+#bg td { text-align:center; vertical-align:middle; }
+#bg img { margin:0 auto; min-height:50%; min-width:50%; }
 
-</head> 
-<body class="splash"></body>
-</html>
+#main {
+	background: transparent;
+	height: 96px;
+	bottom: 33px;
+	left: 0;
+	z-index: 80;
+	position: absolute;
+	width: 100%;
+}
+#main #background {
+	background: #fff;
+	height: 100%;
+	width: 100%;
+	zoom: 1;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+
+
+</style>
+
+
+
 
