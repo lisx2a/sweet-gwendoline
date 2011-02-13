@@ -16,22 +16,21 @@
 <input type="hidden" name="no_note" value="0">
 <input type="hidden" name="add" value="1">
 <input type="hidden" name="bn" value="PP-ShopCartBF:btn_cart_SM.gif:NonHostedGuest">
-<input class="addtocart_btn" type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input class="addtocart_btn" type="image"  name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form><form style="margin-top:-25px;" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
 <input type="hidden" name="display" value="1">
-<input class="viewcart_btn" type="image" src="https://www.paypal.com/en_US/i/btn/btn_viewcart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input class="viewcart_btn" type="image"  name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 	</div>
+<a href="wench-boy.php"><div class="arrowleft" ></div></a>
+	<a href="waspwaist.php"><div class="arrowright"></div></a>
 
-	<div style="background-color:blue;width:10px;height:10px;"><a href="wench-boy.php"><img src=# /></a></div>
-	<div style="background-color:blue;width:10px;height:10px;margin-left:740px;"><a href="waspwaist.php"><img src=# /></a></div>
 
-
-						<div style="float:right; margin: 30px 35px 21px 0;">
+						<div style="float:right; margin: -30px 45px 21px 0;">
 										<img src="product_images/teacup.png" width="656px" />
 						</div>
 									

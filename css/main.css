@@ -71,7 +71,7 @@ body.splash {
 /*Navigation*/
 #navbar{ margin-left:-20px ;
 	position:relative; 
-	font-size:0.9em;
+	font-size:1em;
 	height:150px;}
 
 /*#navbar li {
@@ -120,22 +120,38 @@ div.frm {
 .details {
 	font:.8em Georgia, Serif;}
 
-.addtocart_btn {background:url(../images/addtocart_btn.png) no-repeat -5px -34px;
-	border:none;
-	height:20px;
-	width:50px;
+.addtocart_btn {background:url(../images/addtocart_btn.png) no-repeat 0px 0px;
+	border:0;
+	height:28px;
+	width:84px;
 	padding:0;
-	margin:5px 0 0 100px;}
+	margin:0 0 0 100px;}
 
-.addtocart_btn:hover {background:url(../images/addtocart_btn.png) no-repeat -5px -5px;}
+.addtocart_btn:hover {background-position: 0px -28px;}
 .viewcart_btn {background:url(../images/viewcart_btn.png) no-repeat 0 0;
 	border:none;
-	height:20px;
-	width:50px;
+	outline:none;
+	height:28px;
+	width:84px;
 	padding:0;
-	margin:0;}
+	margin:-7px 0 0 0;}
 
-.viewcart_btn:hover {background:url(../images/viewcart_btn.png) no-repeat 0 0;}
+.viewcart_btn:hover {background-position: 0 -28px;}
+
+.arrowleft {background:url(../images/arrows_new.png) no-repeat 0 -60px;
+width:30px;
+height:60px;
+margin-top:60px;
+margin-left:-40px;}
+.arrowleft:hover {background-position:0 0px;}
+
+.arrowright {background:url(../images/arrows_new.png) no-repeat -30px -60px;
+	width:30px;
+	height:60px;
+	margin-top:-60px;
+	margin-left:760px;
+}
+.arrowright:hover {background-position: -30px 0px;}
 /*Individual Product Pages*/
 
 #productpage_container {background: url(../i/wp-bg.jpg) 0 0 no-repeat;

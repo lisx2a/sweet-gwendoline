@@ -35,27 +35,27 @@
 	<option value="Chocolate">Chocolate </option>
 </select> </td></tr>
 </table><br />
-<input class="addtocart_btn"  type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input class="addtocart_btn"  type="image"  name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 <form style="margin-top:-25px;" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
 <input type="hidden" name="display" value="1">
-<input class="viewcart_btn" type="image" src="https://www.paypal.com/en_US/i/btn/btn_viewcart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input class="viewcart_btn" type="image"  name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 	</div>
+<a href="star-bizarre.php"><div class="arrowleft" ></div></a>
+	<a href="pretty-polly.php"><div class="arrowright"></div></a>
 
-	<div style="background-color:blue;width:10px;height:10px;"><a href="star-bizarre.php"><img src=# /></a></div>
-	<div style="background-color:blue;width:10px;height:10px;margin-left:740px;"><a href="pretty-polly.php"><img src=# /></a></div>
+	
+						<p style="margin:-15px 0 0 34px; position:absolute;width:100px;">Shown in White</p>
 
-						<p style="margin:55px 0 0 34px; position:absolute;width:100px;">Shown in White</p>
-
-						<div style="float:right; margin: -244px 55px 34px 0;">
+						<div style="float:right; margin: -400px 55px 34px 0;">
 										<img src="product_images/crawl.png" width="356px" />
 						</div>
-						<div style="float:right; margin: 45px 21px 0 0;">
+						<div style="float:right; margin: -15px 21px 0 0;">
 							<img src="product_images/crawl-white.png" width="233px" />
 						</div>
 									
