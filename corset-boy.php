@@ -5,7 +5,7 @@
 				Our Corseted Boy Beater takes a little of what's on the inside and celebrates it on the outside. A fully corseted back makes this piece a one of a kind temptation.<br /><br />Always taking it a step further, Sweet Gwendoline will be pushing the boundaries of Tradition.</p><br />
 				<ul style="margin-left:34px;font-size:.8em; font-style:oblique;">
 							<li>available only in White</li>
-							<li>100% cotton 2x1 rib</li>
+							<li>100% cotton </li>
 							<li>corset back</li>
 							<li>lace ribbon</li>
 							<li>washed for a super soft hand</li>
@@ -26,12 +26,12 @@
 						<option value="Medium">Medium </option>
 						<option value="Large">Large </option>
 						</select> </td></tr>
-					</table></table><br />
-						<input class="addtocart_btn" type="image"  name="submit" alt="PayPal - The safer, easier way to pay online!">
+					</table></table>
+						<input class="addtocart_btn" style="margin:-23px 0 0 200px;position:absolute;" type="image"  name="submit" alt="PayPal - The safer, easier way to pay online!">
 						<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 					</form>
 					
-					<form style="margin-top:-25px;" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+					<form style="margin:-35px 0 0 100px;" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
 <input type="hidden" name="display" value="1">
@@ -42,17 +42,12 @@
 <a href="mistress.php"><div class="arrowleft" ></div></a>
 	<a href="mesh-lace.php"><div class="arrowright"></div></a>
 
-							<p style="margin:55px 0 0 0; position:absolute;width:100px;">Back</p>
-						<p style="margin:55px 34px 0 694px;  position:absolute;width:100px;">Front</p>
-															 
-
-
-
-						<div style="float:right; margin: -400px 55px 34px 0;">
-										<img src="product_images/corseted-boy-beater.png" width="356px" />
+						
+						<div style="float:right; margin: -510px 55px 34px 0;">
+										<img src="product_images/corseted-boy-front.png" width="356px" />
 						</div>
-						<div style="float:right; margin: 55px 530px 0 0;">
-							<img src="product_images/backcorsetboy.png" width="233px" />
+						<div style="float:right; margin: -180px 450px 0 0;">
+							<img src="product_images/corseted-boy-back.png" width="233px" />
 						</div>
 
 </div>	

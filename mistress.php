@@ -3,7 +3,7 @@
 										Yes, Ma'am. It's our women's slim fit short sleeve v-neck tee. Perfect fit; shows just enough to make things interesting.</p><br />
 										
 										<ul style="margin-left:34px;font-size:.8em; font-style:oblique;">
-											<li>100% cotton 2x1 rib</li>
+											<li>100% cotton </li>
 											<li>garment dyed &amp; washed for a super soft hand</li>
 										</ul>
 
@@ -51,7 +51,7 @@
 	<a href="corset-boy.php"><div class="arrowright"></div></a>
 
 							
-						<p style="margin:15px 0 0 34px; position:absolute;width:100px;">Shown in Cream</p>
+						<p style="margin:15px 0 0 34px; position:absolute;width:100px;">Available in: <img src="product_images/creamcoco_swatch.png" height="25px" /></p>
 
 						<div style="float:right; margin: -400px 55px 34px 0;">
 										<img src="product_images/mistress-chocolate.png" width="356px" />

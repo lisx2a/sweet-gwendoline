@@ -7,7 +7,7 @@
 										like a glove every time.</p><br />
 										<ul style="margin-left:34px;font-size:.8em; font-style:oblique;">
 											<li>available in White and Black</li>
-											<li>100% cotton 2x1 rib</li>
+											<li>100% cotton</li>
 											<li>garment dyed &amp; washed for a super soft hand</li>
 										</ul>
 										<p style="margin: 15px 0 21px 34px;">$28.00<br /></p>
@@ -64,7 +64,7 @@
 	<a href="butterfly-heels.php"><div class="arrowright"></div></a>
 
 
-						<p style="margin:15px 0 0 34px; position:absolute;width:100px;font-family:Trebuchet MS">Shown in Black</p>
+						<p style="margin:-65px 0 0 34px; position:absolute;width:100px;font-family:Trebuchet MS">Available in: <img src="product_images/whitblack_swatch.png" height=25px; /></p>
 
 						<div style="float:right; margin: -400px 55px 34px 0;">
 										<img src="product_images/wasp-waist-white.png" width="356px" />

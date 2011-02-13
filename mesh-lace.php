@@ -4,7 +4,7 @@
 										The flexible mesh side panels make this modified Boy Beater fit to every bend. Comfortable but controlled, its like wearing a silky second skin.</p><p style="width:270px; margin:20px 0 0 34px;">Always taking it step further, Sweet Gwendoline will be pushing the boundaries of Tradition.</p><br />
 								<ul style="margin-left:34px;font-size:.8em; font-style:oblique;">
 								<li>available in White only</li>
-								<li>100% cotton 2x1 rib</li>
+								<li>100% cotton </li>
 								<li>washed for a super soft hand</li>
 								<li>latex mesh side panels</li>
 								</ul>

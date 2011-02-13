@@ -46,7 +46,7 @@
 
 	
 				
-						<p style="margin:-15px 0 0 34px; position:relative;width:100px;">Shown in Black</p>
+						<p style="margin:-55px 0 0 34px; position:relative;width:100px;">Available in: <img src="product_images/whitblack_swatch.png" height="25" /></p>
 
 						<div style="float:right; margin: -430px 55px 34px 0;">
 										<img src="product_images/about-these-corsets-white.png" width="356px" />

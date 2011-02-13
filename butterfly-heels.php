@@ -46,7 +46,7 @@
 	<a href="about-this-tank.php"><div class="arrowright"></div></a>
 
 	
-						<p style="margin:-15px 0 0 34px; position:absolute;width:100px;">Shown in Chocolate</p>
+						<p style="margin:-15px 0 0 34px; position:absolute;width:100px;">Available in: <img src="product_images/creamcoco_swatch.png" height="25px" /></p>
 
 						<div style="float:right; margin: -400px 45px 44px 0;">
 										<img src="product_images/butterfly-in-heels.png" width="356px" />

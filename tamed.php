@@ -5,7 +5,7 @@
 										The women's slim fit basic rib tank. All the pleasure without the pain. Molds to the body and fits
 										like a glove every time.</p><br />
 										<ul style="margin-left:34px;font-size:.8em; font-style:oblique;">
-											<li>100% cotton 2x1 rib</li>
+											<li>100% cotton</li>
 											<li>garment dyed &amp; washed for a super soft hand</li>
 										</ul>
 
@@ -54,12 +54,12 @@
 <a href="pretty-polly.php"><div class="arrowleft" ></div></a>
 	<a href="plead.php"><div class="arrowright"></div></a>
 
-						<p style="margin:-25px 0 0 34px;width:100px;">Shown in Black</p>
+						<p style="margin:-45px 0 0 34px;width:100px;">Available in: <img src="product_images/3color_swatch.png" height="25px" /></p>
 
-			<div style="float:right;margin:-424px 50px 0 0px;">
-										<img src="product_images/tamed.png" width="356px" />
+			<div style="float:right;margin:-424px 30px 0 0px;">
+										<img src="product_images/tamed.png" width="386px" />
 			</div>
-			<div style="float:right;margin-left:-61px;">
+			<div style="float:right;margin:-45px 0 0 -61px;">
 							<img src="product_images/tamed-in-chocolate.png" width="233px" />
 			</div>
 									

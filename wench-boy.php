@@ -3,7 +3,8 @@
 		<p style="width:270px;margin-left:34px;padding-top:40px;"><span class="productname">WENCH BOY BEATER</span><br /><br />
 										It's our twist on the classic rib tank. A fitted body with a lace up front gives you an elegent extra to accent your form.</p><br />
 										<ul style="margin-left:34px;font-size:.8em; font-style:oblique;">
-											<li>100% cotton 2x1 rib</li>
+											<li>available in White only</li>
+											<li>100% cotton </li>
 											<li>garment dyed &amp; washed for a super soft hand</li>
 										</ul>
 
