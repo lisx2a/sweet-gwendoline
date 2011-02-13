@@ -3,7 +3,7 @@
 										<p style="width:280px; margin: 20px 0 0 34px;">TIED UP FOR TEA<br />Tea Cup and Saucer<br /><br />
 										When performing the ritual of Tea Time, make sure you're in control. With the Sweet Gwendoline tea cup and saucer, passion is only a sip away.
 										</p><br />
-										<p style="margin: 5px 0 0 34px;">S, M, L<br />$20.00<br /></p>
+										<p style="margin: 15px 0 21px 34px;">$20.00<br /></p>
 						<div style="margin:-27px 0 0 100px;">
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_cart">
@@ -18,8 +18,18 @@
 <input type="hidden" name="bn" value="PP-ShopCartBF:btn_cart_SM.gif:NonHostedGuest">
 <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form><form style="margin-top:-25px;" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_cart">
+<input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
+<input type="hidden" name="display" value="1">
+<input class="viewcart_btn" type="image" src="https://www.paypal.com/en_US/i/btn/btn_viewcart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-												</div>
+	</div>
+
+	<div style="background-color:blue;width:10px;height:10px;"><a href="wench-boy.php"><img src=# /></a></div>
+	<div style="background-color:blue;width:10px;height:10px;margin-left:740px;"><a href="waspwaist.php"><img src=# /></a></div>
+
 						<p style="margin:55px 0 0 34px; position:absolute;width:100px;"></p>
 
 						<div style="float:right; margin: -55px 25px 21px 0;">

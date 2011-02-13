@@ -6,7 +6,7 @@
 										The women's slim fit basic rib tank. All the pleasure without the pain. Molds to the body and fits
 										like a glove every time.</p><br />
 										<ul style="margin-left:34px;font-size:.8em; font-style:oblique;">
-											<li>Available in White and Black</li>
+											<li>available in White and Black</li>
 											<li>100% cotton 2x1 rib</li>
 											<li>garment dyed &amp; washed for a super soft hand</li>
 										</ul>
@@ -48,7 +48,7 @@
 	</td>
 	</tr>
 </table><br />
-<input style="margin-left:100px;"type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input class="addtocart_btn" style="margin-left:100px;"type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
@@ -56,11 +56,14 @@
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
 <input type="hidden" name="display" value="1">
-<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_viewcart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input class="viewcart_btn" type="image" src="https://www.paypal.com/en_US/i/btn/btn_viewcart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+	</div>
 
-																	</div>
+	<div style="background-color:blue;width:10px;height:10px;"><a href="collection.php"><img src=# /></a></div>
+	<div style="background-color:blue;width:10px;height:10px;margin-left:740px;"><a href="butterfly-heels.php"><img src=# /></a></div>
+
 						<p style="margin:75px 0 0 34px; position:absolute;width:100px;font-family:Trebuchet MS">In Black</p>
 
 						<div style="float:right; margin: -284px 55px 34px 0;">

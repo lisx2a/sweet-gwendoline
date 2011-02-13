@@ -125,10 +125,17 @@ div.frm {
 	height:20px;
 	width:50px;
 	padding:0;
-	margin:5px 0 0 0;}
+	margin:5px 0 0 100px;}
 
 .addtocart_btn:hover {background:url(../images/addtocart_btn.png) no-repeat -5px -5px;}
+.viewcart_btn {background:url(../images/viewcart_btn.png) no-repeat 0 0;
+	border:none;
+	height:20px;
+	width:50px;
+	padding:0;
+	margin:0;}
 
+.viewcart_btn:hover {background:url(../images/viewcart_btn.png) no-repeat 0 0;}
 /*Individual Product Pages*/
 
 #productpage_container {background: url(../i/wp-bg.jpg) 0 0 no-repeat;

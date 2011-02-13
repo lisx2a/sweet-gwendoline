@@ -1,13 +1,13 @@
 <?php require_once 'header.php'; ?>
 		<div id="productpage_container">	<p style="width:270px;margin: 20px 0 0 34px;">MESH AND LACE BOY BEATER<br /><br />
 										The flexible mesh side panels make this modified Boy Beater fit to every bend. Comfortable but controlled, its like wearing a silky second skin.</p><p style="width:270px; margin:20px 0 0 34px;">Always taking it step further, Sweet Gwendoline will be pushing the boundaries of Tradition.</p><br />
-								<ul>
+								<ul style="margin-left:34px;font-size:.8em; font-style:oblique;">
 								<li>available in White only</li>
 								<li>100% cotton 2x1 rib</li>
 								<li>washed for a super soft hand</li>
 								<li>latex mesh side panels</li>
 								</ul>
-										<p style="margin: 5px 0 0 34px;">S, M, L<br />$48.00<br /></p>
+										<p style="margin: 15px 0 21px 34px;">$48.00<br /></p>
 						<div style="margin:-27px 0 0 100px;">
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -31,7 +31,18 @@
 <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-										
+	<form style="margin-top:-25px;" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_cart">
+<input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
+<input type="hidden" name="display" value="1">
+<input class="viewcart_btn" type="image" src="https://www.paypal.com/en_US/i/btn/btn_viewcart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+	</div>
+
+	<div style="background-color:blue;width:10px;height:10px;"><a href="corset-boy.php"><img src=# /></a></div>
+	<div style="background-color:blue;width:10px;height:10px;margin-left:740px;"><a href="wench-boy.php"><img src=# /></a></div>
+									
 																									</div>
 						<p style="margin:55px 0 0 34px; position:absolute;width:100px;"></p>
 
