@@ -120,14 +120,14 @@ div.frm {
 .details {
 	font:.8em Georgia, Serif;}
 
-.buybtn {background:url(../images/buy_btn.png) no-repeat -5px -34px;
+.addtocart_btn {background:url(../images/addtocart_btn.png) no-repeat -5px -34px;
 	border:none;
 	height:20px;
 	width:50px;
 	padding:0;
 	margin:5px 0 0 0;}
 
-.buybtn:hover {background:url(../images/buy_btn.png) no-repeat -5px -5px;}
+.addtocart_btn:hover {background:url(../images/addtocart_btn.png) no-repeat -5px -5px;}
 
 /*Individual Product Pages*/
 
@@ -135,6 +135,7 @@ div.frm {
 	width:100%;height:900px;
 	position:relative; 
 	margin:0;}
+span.productname {font-size:1.5em;}
 /*from old site*/
 		
 

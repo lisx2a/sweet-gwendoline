@@ -38,35 +38,5 @@
 </head>
 <body>
 
-<!-- begin site -->
-<!--div id="main_container">
-	<div id="navbar">
-	<ul>
-		<li><img src="images/sglogo_small.png" style="width:250px;"/></li>
-		<li style="padding:100px 0 0 50px;"><a href="collection.php">COLLECTION</a></li>
-		<li style="padding:100px 0 0 50px;"><a href="updates.php">UPDATES</a></li>
-		<li style="padding:100px 0 0 50px;"><a href="about.php">ABOUT US</a></li>
-		<li style="padding:100px 0 0 50px;"><a href="contactus.php">CONTACT</a></li>
-	</ul>
-	</div-->
-	
-	<!--? /*
-	<div id="social">
-		<li><a href="" id="twitter">Follow us on Twitter</a>
-		<li><a href="" id="facebook">Friend us on Facebook</a>
-		<li><a href="" id="youtube">Video on Youtube</a>
-		<li><a href="" id="flickr">Photos on Flickr</a>
-		<li><a href="" id="rss">Updates RSS</a>
-	</div>
-
-	<div id="email_signup">
-		<form id="email_list" name="email_list">
-			<label for="email">Email:</label>
-			<input type="text" id="email" value="" />
-			<input type="submit" value="sign up" />
-		</form>
-	</div>
-	*/ ?-->
-	<!--/div-->
 	</body>
 </html>
