@@ -1,7 +1,7 @@
 <?php require_once 'header.php'; ?>
 		<div id="productpage_container">	
 		
-		<p style="padding: 40px 0 0 34px;"><span class="productname">WASP WAIST</span></p>
+		<p style="padding: 40px 0 0 34px;"><span class="productname">WASP WAIST</span><br /></p>
 		<br /><p style="width:270px;margin: 0px 0 0 34px;font-family:Trebuchet MS;">
 										The women's slim fit basic rib tank. All the pleasure without the pain. Molds to the body and fits
 										like a glove every time.</p><br />
@@ -64,7 +64,7 @@
 	<div style="background-color:blue;width:10px;height:10px;"><a href="collection.php"><img src=# /></a></div>
 	<div style="background-color:blue;width:10px;height:10px;margin-left:740px;"><a href="butterfly-heels.php"><img src=# /></a></div>
 
-						<p style="margin:75px 0 0 34px; position:absolute;width:100px;font-family:Trebuchet MS">In Black</p>
+						<p style="margin:75px 0 0 34px; position:absolute;width:100px;font-family:Trebuchet MS">Shown in Black</p>
 
 						<div style="float:right; margin: -284px 55px 34px 0;">
 										<img src="product_images/wasp-waist-white.png" width="356px" />

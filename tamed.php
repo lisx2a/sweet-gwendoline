@@ -57,10 +57,10 @@
 
 						<p style="margin:55px 0 0 34px;width:100px;">Also Available in Black</p>
 
-			<div style="float:right;margin:-284px 0 0 40px;">
+			<div style="float:right;margin:-424px 50px 0 0px;">
 										<img src="product_images/tamed.png" width="356px" />
 			</div>
-			<div style="float:right;margin-left:21px;">
+			<div style="float:right;margin-left:-61px;">
 							<img src="product_images/tamed-in-chocolate.png" width="233px" />
 			</div>
 									

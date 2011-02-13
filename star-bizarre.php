@@ -54,7 +54,7 @@
 
 						<p style="margin:55px 0 0 34px; position:absolute;width:100px;">Shown in White</p>
 
-						<div style="float:right; margin: -184px 55px 34px 0;">
+						<div style="float:right; margin: -284px 55px 34px 0;">
 										<img src="product_images/star-bizarre-black.png" width="356px" />
 						</div>
 						<div style="float:right; margin: 55px 21px 0 0;">

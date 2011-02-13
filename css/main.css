@@ -142,7 +142,9 @@ div.frm {
 	width:100%;height:900px;
 	position:relative; 
 	margin:0;}
-span.productname {font-size:1.5em;}
+span.productname {font-size:1.5em;
+	width:400px;
+	position:absolute;}
 /*from old site*/
 		
 

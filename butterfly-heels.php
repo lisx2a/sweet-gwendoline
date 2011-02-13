@@ -48,7 +48,7 @@
 
 						<p style="margin:55px 0 0 34px; position:absolute;width:100px;">Shown in Chocolate</p>
 
-						<div style="float:right; margin: -334px 55px 34px 0;">
+						<div style="float:right; margin: -284px 45px 44px 0;">
 										<img src="product_images/butterfly-in-heels.png" width="356px" />
 						</div>
 						<div style="float:right; margin: 55px 21px 0 0;">

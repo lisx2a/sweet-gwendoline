@@ -1,5 +1,6 @@
 <?php require_once 'header.php'; ?>
-		<div id="productpage_container">	<p style="width:270px;margin: 20px 0 0 34px;">MESH AND LACE BOY BEATER<br /><br />
+		<div id="productpage_container">	
+			<p style="width:270px;margin-left:34px;padding-top:40px;"><span class="productname">PLEAD MESH AND LACE BOY BEATER</span><br /><br />
 										The flexible mesh side panels make this modified Boy Beater fit to every bend. Comfortable but controlled, its like wearing a silky second skin.</p><p style="width:270px; margin:20px 0 0 34px;">Always taking it step further, Sweet Gwendoline will be pushing the boundaries of Tradition.</p><br />
 								<ul style="margin-left:34px;font-size:.8em; font-style:oblique;">
 								<li>available in White only</li>
@@ -8,7 +9,7 @@
 								<li>latex mesh side panels</li>
 								</ul>
 										<p style="margin: 15px 0 21px 34px;">$48.00<br /></p>
-						<div style="margin:-27px 0 0 100px;">
+						<div style="margin-left: 34px;">
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_cart">
@@ -27,8 +28,8 @@
 	<option value="Medium">Medium </option>
 	<option value="Large">Large </option>
 </select> </td></tr>
-</table>
-<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+</table><br />
+<input class="addtocart_btn" type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 	<form style="margin-top:-25px;" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -43,14 +44,13 @@
 	<div style="background-color:blue;width:10px;height:10px;"><a href="corset-boy.php"><img src=# /></a></div>
 	<div style="background-color:blue;width:10px;height:10px;margin-left:740px;"><a href="wench-boy.php"><img src=# /></a></div>
 									
-																									</div>
 						<p style="margin:55px 0 0 34px; position:absolute;width:100px;"></p>
 
-						<div style="float:right; margin: -144px 55px 34px 0;">
+						<div style="float:right; margin: -344px 55px 34px 0;">
 										<img src="product_images/mesh-and-lace.png" width="356px" />
 						</div>
 						<div style="float:right; margin: 55px 21px 0 0;">
-							<img src="product_images/wasp-waist-black.png" width="233px" />
+							<img src="" width="233px" />
 						</div>
 									
 		</div>

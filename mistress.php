@@ -1,5 +1,5 @@
-<?php require_once 'headeer.php'; ?>
-		<div id="productpage_container">	<p style="width:270px;margin: 20px 0 0 34px;">MISTRESS<br /><br />
+<?php require_once 'header.php'; ?>
+		<div id="productpage_container">	<p style="width:270px;margin-left:34px;padding-top:40px;"><span class="productname">MISTRESS</span><br /><br />
 										Yes, Ma'am. It's our women's slim fit short sleeve v-neck tee. Perfect fit; shows just enough to make things interesting.</p><br />
 										
 										<ul style="margin-left:34px;font-size:.8em; font-style:oblique;">
@@ -8,7 +8,7 @@
 										</ul>
 
 										<p style="margin: 15px 0 21px 34px;">$33.00<br /></p>
-						<div style="margin:-27px 0 0 100px;">
+						<div style="margin-left:34px;">
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
@@ -21,17 +21,22 @@
 <input type="hidden" name="add" value="1">
 <input type="hidden" name="bn" value="PP-ShopCartBF:btn_cart_SM.gif:NonHostedGuest">
 <table>
-<tr><td><input type="hidden" name="on0" value="Size">Size</td></tr><tr><td><select name="os0">
+<tr>
+	<td><input type="hidden" name="on0" value="Size">Size</td>
+	<td width="30px"></td>
+	<td><input type="hidden" name="on1" value="Colors">Colors</td>
+	</tr><tr><td><select name="os0">
 	<option value="Small">Small </option>
 	<option value="Medium">Medium </option>
 	<option value="Large">Large </option>
-</select> </td></tr>
-<tr><td><input type="hidden" name="on1" value="Colors">Colors</td></tr><tr><td><select name="os1">
+</select> </td>
+<td></td>
+<td><select name="os1">
 	<option value="Cream">Cream </option>
 	<option value="Chocolate">Chocolate </option>
 </select> </td></tr>
-</table>
-<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+</table><br />
+<input class="addtocart_btn" type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 	<form style="margin-top:-25px;" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -48,7 +53,7 @@
 						
 						<p style="margin:55px 0 0 34px; position:absolute;width:100px;">Shown in Cream</p>
 
-						<div style="float:right; margin: -144px 55px 34px 0;">
+						<div style="float:right; margin: -284px 55px 34px 0;">
 										<img src="product_images/mistress-chocolate.png" width="356px" />
 						</div>
 						<div style="float:right; margin: 55px 21px 0 0;">

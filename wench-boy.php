@@ -1,13 +1,14 @@
 <?php require_once 'header.php'; ?>
-		<div id="productpage_container">	<p style="width:270px;margin: 20px 0 0 34px;">WENCH BOY BEATER<br /><br />
+		<div id="productpage_container">	
+		<p style="width:270px;margin-left:34px;padding-top:40px;"><span class="productname">WENCH BOY BEATER</span><br /><br />
 										It's our twist on the classic rib tank. A fitted body with a lace up front gives you an elegent extra to accent your form.</p><br />
 										<ul style="margin-left:34px;font-size:.8em; font-style:oblique;">
 											<li>100% cotton 2x1 rib</li>
 											<li>garment dyed &amp; washed for a super soft hand</li>
 										</ul>
 
-										<p style="margin: 5px 0 0 34px;">S, M, L<br />$48.00<br /></p>
-						<div style="margin:-27px 0 0 100px;">
+										<p style="margin: 15px 0 21px 34px;">$48.00<br /></p>
+						<div style="margin-left:34px;">
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
@@ -25,8 +26,8 @@
 	<option value="Medium">Medium </option>
 	<option value="Large">Large </option>
 </select> </td></tr>
-</table>
-<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+</table><br />
+<input class="addtocart_btn"type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 <!--View Cart Button-->
@@ -44,7 +45,7 @@
 
 					
 
-						<div style="float:right; margin: -144px 55px 34px 0;">
+						<div style="float:right; margin: -284px 55px 34px 0;">
 										<img src="product_images/wench-boy-beater.png" width="356px" />
 						</div>
 						<div style="float:right; margin: 55px 21px 0 0;">
