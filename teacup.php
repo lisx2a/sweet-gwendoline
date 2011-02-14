@@ -1,6 +1,11 @@
 <?php require_once 'header.php'; ?>
 		<div id="productpage_container">
-										<p style="width:300px; margin-left:34px;padding-top:40px;"><span class="productname">TIED UP FOR TEA</span><br /><br />Tea Cup and Saucer<br /><br />
+										
+
+						<div style="float:right; margin: 190px 45px 21px 0;">
+										<img src="product_images/teacup.png" width="656px" />
+						</div>
+		<p style="width:300px; margin-left:34px;padding-top:40px;"><span class="productname">TIED UP FOR TEA</span><br /><br />Tea Cup and Saucer<br /><br />
 										When performing the ritual of Tea Time, make sure you're in control. With the Sweet Gwendoline tea cup and saucer, passion is only a sip away.
 										</p><br />
 										<p style="margin: 15px 0 21px 34px;">$20.00<br /></p>
@@ -26,14 +31,11 @@
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 	</div>
-<a href="wench-boy.php"><div class="arrowleft" ></div></a>
+	
+	<a href="wench-boy.php"><div class="arrowleft" style="margin-top:-340px;"></div></a>
 	<a href="waspwaist.php"><div class="arrowright"></div></a>
 
 
-						<div style="float:right; margin: -30px 45px 21px 0;">
-										<img src="product_images/teacup.png" width="656px" />
-						</div>
 									
 		</div>
-		<div></div>
 <?php require_once 'footer.php'; ?>
