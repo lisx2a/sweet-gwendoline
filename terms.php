@@ -1,5 +1,6 @@
 <?php require_once 'header.php'; ?>
 
+<div id="terms">
 <p>References to "we", "us" or "our" throughout www.sweetgwendolineclothing.com ("the Website") are to Sweet Gwendoline Clothing.  The use of the Website and the purchase of any products ("Products") from the Website is governed by these terms and conditions ("Conditions"). We reserve the right to modify these terms and conditions from time to time without notice to you.</p><br />
 
 <p>There is no charge imposed by us for accessing the Website but you must pay the cost of the communications link you use to visit the Website.  Access to the Website may be suspended, restricted or terminated at any time.</p><br />
@@ -52,6 +53,7 @@ No waiver by us shall be construed as a waiver of any preceeding or succeeding b
 <p>
 The Conditions shall be governed by and construed in accordance with the laws of New York State.
 </p><br />
+</div>
 
 <?php require_once 'footer.php'; ?>
 
