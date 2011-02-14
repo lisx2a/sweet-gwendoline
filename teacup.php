@@ -6,7 +6,11 @@
 										<img src="product_images/teacup.png" width="656px" />
 						</div>
 		<p style="width:300px; margin-left:34px;padding-top:40px;"><span class="productname">TIED UP FOR TEA</span><br /><br />Tea Cup and Saucer<br /><br />
+<<<<<<< HEAD
 										When performing the ritual of Tea Time, make sure you're in control. With the Sweet Gwendoline tea cup and saucer, passion is only a sip away.
+=======
+									When performing the ritual of Tea Time, make sure you're in control. With the Sweet Gwendoline tea cup and saucer, passion is only a sip away.
+>>>>>>> staging
 										</p><br />
 										<p style="margin: 15px 0 21px 34px;">$20.00<br /></p>
 						<div style="margin:-45px 0 0 124px;">
