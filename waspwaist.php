@@ -48,7 +48,7 @@
 	</td>
 	</tr>
 </table><br />
-<input class="addtocart_btn" "type="image"  border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input class="addtocart_btn" "type="image"  border="0" name="submit" value="" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
@@ -56,7 +56,7 @@
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
 <input type="hidden" name="display" value="1">
-<input class="viewcart_btn" type="image"  border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input class="viewcart_btn" type="image"  border="0" name="submit" value="" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 	</div>

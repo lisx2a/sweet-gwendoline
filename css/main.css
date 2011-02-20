@@ -117,21 +117,23 @@ div.frm {
 .details {
 	font:.8em Georgia, Serif;}
 
-.addtocart_btn {background:url(../images/addtocart_btn.png) no-repeat 0px 0px;
-	border:0;
+.addtocart_btn {background:url(../images/sg_buttons.png) no-repeat 0px -56px;
+	display:block;
+	border:none;
 	height:28px;
 	width:84px;
 	padding:0;
 	margin:0 0 0 100px;}
 
-.addtocart_btn:hover {background-position: 0px -28px;}
-.viewcart_btn {background:url(../images/viewcart_btn.png) no-repeat 0 0;
+.addtocart_btn:hover {background-position: 0px -84px;}
+.viewcart_btn {background:url(../images/sg_buttons.png) no-repeat 0 0;
+	display:block;
 	border:none;
 	outline:none;
 	height:28px;
 	width:84px;
 	padding:0;
-	margin:-7px 0 0 0;}
+	margin:-48px 0 0 0;}
 
 .viewcart_btn:hover {background-position: 0 -28px;}
 
