@@ -18,7 +18,7 @@
 <link rel="icon" href="i/favicon.ico" type="image/x-icon" /> 
 <link rel="shortcut icon" href="i/favicon.ico" type="image/x-icon" /> 
 <link rel="stylesheet" href="css/main.css" type="text/css" media="screen" /> 
-<script src="script/jquery-1.4.4.min.js" ></script>
+<script src="scripts/jquery-1.4.4.min.js" ></script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
