@@ -18,10 +18,7 @@
 <link rel="icon" href="i/favicon.ico" type="image/x-icon" /> 
 <link rel="shortcut icon" href="i/favicon.ico" type="image/x-icon" /> 
 <link rel="stylesheet" href="css/main.css" type="text/css" media="screen" /> 
-<!--[if lte IE 9]>
-<link rel="stylesheet" href="c/ie.css" type="text/css" media="screen" /> 
-<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
+<script src="scripts/jquery-1.4.4.min.js" ></script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -35,6 +32,7 @@
   })();
 </script>
 </head>
+<body>
 <div id="main_container">
 <div id="navbar">
 	<ul>
@@ -42,8 +40,7 @@
 		<li style="display:block;float:left;padding:100px 0 0 10px;"><a href="collection.php">COLLECTION</a></li>
 		<li style="display:block;float:left;padding:100px 0 0 30px;"><a href="updates.php">NEWS & EVENTS</a></li>
 		<li style="display:block;float:left;padding:100px 0 0 30px;"><a href="about.php">ABOUT US</a></li>
-		<li style="display:block;float:left;padding:100px 0 0 30px;"><a href="links.php">LINKS</a></li>
+		<!--li style="display:block;float:left;padding:100px 0 0 30px;"><a href="links.php">LINKS</a></li-->
 		<li style="display:block;float:left;padding:100px 0 0 30px;"><a href="contactus.php">CONTACT</a></li>
 	</ul></div>
-<body>
 

@@ -50,7 +50,7 @@ body {
 	width:754px;
 	position:relative;}
 
-#main_container h1 {display:none;}
+/*#main_container h1 {display:none;}*/
 
 .splash {
 	text-align:center;
@@ -85,7 +85,7 @@ body.splash {
 	display: block;}
 
 /*collection*/
-#collection, #updates, #contact, #about_us { 
+#collection, #updates, #contact, #about_us, { 
 	position:relative;
 	margin: 0;}
 
@@ -117,21 +117,25 @@ div.frm {
 .details {
 	font:.8em Georgia, Serif;}
 
-.addtocart_btn {background:url(../images/addtocart_btn.png) no-repeat 0px 0px;
-	border:0;
-	height:28px;
-	width:84px;
-	padding:0;
-	margin:0 0 0 100px;}
-
-.addtocart_btn:hover {background-position: 0px -28px;}
-.viewcart_btn {background:url(../images/viewcart_btn.png) no-repeat 0 0;
+.addtocart_btn {background:url(../images/sg_buttons.png) no-repeat 0px -56px;
+	display:block;
 	border:none;
 	outline:none;
 	height:28px;
 	width:84px;
 	padding:0;
-	margin:-7px 0 0 0;}
+	margin:0 0 0 100px;}
+
+.addtocart_btn:hover {background-position: 0px -84px;}
+
+.viewcart_btn {background:url(../images/sg_buttons.png) no-repeat 0 0;
+	display:block;
+	border:1px solid red;
+	outline:none;
+	height:28px;
+	width:84px;
+	padding:0;
+	margin:-48px 0 0 0;}
 
 .viewcart_btn:hover {background-position: 0 -28px;}
 
@@ -160,119 +164,32 @@ span.productname {font-size:1.5em;
 	position:absolute;}
 /*from old site*/
 		
+/*FAQ*/
 
-.theProduct .wrapper { width: 600px; 
-	overflow: hidden; 
-	height: 666px; 
-	margin: 0 0; 
-	position: absolute; 
-	top: 0; left: 0; 
-}
-.theProduct .wrapper ul {width: 42000px; 
-	list-style: none; 
-	position: absolute; 
-	top: 0; left: 0;  
-	margin: 0; 
-}
-.theProduct ul li { display: block; 
-	float: left; 
-	padding: 0; 
-	height: 317px; 
-	width: 680px; 
-	margin: 0;
-}
-.theProduct .arrow{ display: block; 
-	height: 60px; 
-	width: 30px; 
-	background: url(../i/arrows_new.png) no-repeat 0 0; 
-	text-indent: -9999px; 
-	position: absolute; 
-	top: 375px; 
-	cursor: pointer; 
-}
-.theProduct .forward { background-position: -30px 0;
-	right: 21px; 
-}
-.theProduct .back { background-position: 0 0; 
-	left:  21px;
-}
-.theProduct .forward:hover { background-position: -30px 0px; }
+#faq_section h2, #terms h2 {
+	font-size:1.3em;
+	font-weight;bold;
+	color:#8A264E;}
 
-.theProduct .back:hover { background-position: 0 0; }
-#thumbs { position:absolute; 
-	left: 594px; 
-	margin:0; 
-	float:none; 
-	top:0;z-index:1; 
-	height:750px; 
-	overflow-y:scroll; 
-}
-#thumbs li { padding:7px 0 0 0; } 
+#faq_section h1, #terms h1{
+	font-family:Georgia;
+	font-size:1.8em;
+	color:#8A264E;
+	margin:0;
+	padding:0;}
 
-#thumbs li.first { padding:28px 0 0 0; 
-	margin-top:0; 
-	display:block; 
-}
+#faq_section span { font-weight:bold;
+	font-size:1.05em;}
 
-.thumbNav  li { display:none; }
+#faq_section a {color:#8A264E;}
 
-.thumbNav li.foward, .thumbNav li.back{ display:block;}
+#faq_section a:hover {color:#ffffff;}
 
-.start-stop { display:none; }
+#faq_section p, #terms p {margin:21px 0 10px 0;}
 
-/* Prevents */
-.theProduct .wrapper ul ul { position: static; 
-	margin: 0; 
-	background: none; 
-	overflow: visible; 
-	width: auto; 
-	border: 0; 
-}
-.theProduct .wrapper ul ul li { float: none; 
-	height: auto;
-	width: auto; 
-	background: none; 
-}
-#thumbs {  background:transparent; 
-	float:left;  
-	width:114px; 
-	height:100%; 
-	margin: 0 0 0 994px; 
-	padding:0;
-}
-#thumbs ul {  height:100%; 
-	float:left; 
-	clear:both;
-}
-#thumbs li { text-align:center; 
-	margin:0; 
-	padding:0 7px; 
-	width:96px; 
-	height:96px; 
-	overflow:hidden; 
-	cursor:pointer;
-}
-#thumbs li span{ width:86px; 
-	height:86px; 
-	overflow:hidden;
-}
-#thumbs li img{ width:86px; }
- 
-#thumbs li.first { padding-top:28px; }
-
-#thumbs li.last { margin-bottom: 0; }
-
-#thumbs li.selected {}
-
-
-
-
-/* design elements */
-div.thumbNav { display:none;}
-a.start-stop { display:none;}
-
-.wrp {float:left; width:580px; clear:both; }
-.right{ float:right; }
+#faq_section table, th, td {padding:0 10px 0 10px;}
+ #faq_section th {border-bottom: 1px solid #ffffff;
+ 	border-top:1px solid #ffffff;}
 
 /* site header */
 #header{ 
