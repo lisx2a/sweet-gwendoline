@@ -2,7 +2,7 @@
 		<div id="productpage_container">	
 		
 		<p style="padding: 40px 0 0 34px;"><span class="productname">WASP WAIST</span><br /></p>
-		<div style="margin:-50px 0 0 584px;position:absolute;font-size:.95em"><a href="collections.php">return to Collection</a></div>
+		<div style="margin:-50px 0 0 584px;position:absolute;font-size:.95em"><a href="collection.php">return to Collection</a></div>
 		<br /><p style="width:270px;margin: 0px 0 0 34px;font-family:Trebuchet MS;">
 										The women's slim fit basic rib tank. All the pleasure without the pain. Molds to the body and fits
 										like a glove every time.</p><br />
