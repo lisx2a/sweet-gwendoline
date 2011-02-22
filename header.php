@@ -34,13 +34,17 @@
 </head>
 <body>
 <div id="main_container">
+<div style="width:180px;margin-left:570px;margin-top:5px;position:absolute;"><a href="http://www.facebook.com"><div class="facebook"></div></a><p style="margin:-22px 0 0 35px;position:absolute;">Stay Connected</p></div>
+	<div style="width:190px;margin-left:-150px;margin-top:50px;position:absolute"><a href="http://www.twitter.com"><div class="twitter"></div></a><p style="width:80px;margin:-40px 0 0 635px;position:absolute;">Follow Us</p></div>
+
+
 <div id="navbar">
 	<ul>
 		<li><a href="collection.php"><img src="images/sglogo_small.png" style="width:250px;display:block;float:left;"/></a></li>
-		<li style="display:block;float:left;padding:100px 0 0 10px;"><a href="collection.php">COLLECTION</a></li>
-		<li style="display:block;float:left;padding:100px 0 0 30px;"><a href="updates.php">NEWS & EVENTS</a></li>
-		<li style="display:block;float:left;padding:100px 0 0 30px;"><a href="about.php">ABOUT US</a></li>
+		<li style="display:block;float:left;padding:100px 0 0 20px;"><a href="collection.php">COLLECTION</a></li>
+		<li style="display:block;float:left;padding:100px 0 0 40px;"><a href="updates.php">NEWS & EVENTS</a></li>
+		<li style="display:block;float:left;padding:100px 0 0 40px;"><a href="about.php">ABOUT US</a></li>
 		<!--li style="display:block;float:left;padding:100px 0 0 30px;"><a href="links.php">LINKS</a></li-->
-		<li style="display:block;float:left;padding:100px 0 0 30px;"><a href="contactus.php">CONTACT</a></li>
+		<li style="display:block;float:left;padding:100px 0 0 40px;"><a href="contactus.php">CONTACT</a></li>
 	</ul></div>
 

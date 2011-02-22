@@ -1,4 +1,15 @@
 ﻿<?php require_once 'header.php'; ?>
+<script type="text/javascript">
+			$(document).ready(function(){
+				//To switch directions up/down and left/right just place a "-" in front of the top/left attribute
+				//Vertical Sliding
+				$('.boxgrid.slidedown').hover(function(){
+					$(".cover", this).stop().animate({top:'-260px'},{queue:false,duration:300});
+				}, function() {
+					$(".cover", this).stop().animate({top:'0px'},{queue:false,duration:300});
+	});
+		</script>
+
 		<div id="collection">
 					<img src="images/collections_header.jpg" alt=" Sweet Gwendoline Clothing Collection" />
 					<br />

@@ -124,18 +124,17 @@ div.frm {
 	height:28px;
 	width:84px;
 	padding:0;
-	margin:0 0 0 100px;}
+	margin:0 0 0 120px;}
 
 .addtocart_btn:hover {background-position: 0px -84px;}
 
 .viewcart_btn {background:url(../images/sg_buttons.png) no-repeat 0 0;
 	display:block;
-	border:1px solid red;
 	outline:none;
 	height:28px;
 	width:84px;
 	padding:0;
-	margin:-48px 0 0 0;}
+	margin:-48px 0 0 10px;}
 
 .viewcart_btn:hover {background-position: 0 -28px;}
 
@@ -219,20 +218,21 @@ span.productname {font-size:1.5em;
          display:none;
 }
 #header #social li{ float:left;
-	 margin: 0 0 0 7px;
-}
-a#twitter{ background:url(../i/twitter-32x32.png) 0 0 no-repeat;
-	width:32px;
-	height:32px; 
+	 margin: 0 0 0 7px;}
+
+.facebook { background:url(../images/sg_buttons.png) no-repeat -146px 0;
+	width:25px;
+	height:25px; 
+	display:block;}
+
+.twitter { background:url(../images/sg_buttons.png) no-repeat -171px 0;
+	width:25px;
+	height:25px;
 	display:block;
-	text-indent:-9999px;
-}
-a#facebook{ background:url(../i/facebook-32x32.png) 0 0 no-repeat;
-	width:32px;
-	height:32px;
-	display:block;
-	text-indent:-9999px;
-}
+	position:absolute;
+	margin-top:-43px;
+	margin-left:600px;}
+
 a#youtube{ background:url(../i/youtube-32x32.png) 0 0 no-repeat;
 	width:32px;
 	height:32px;
@@ -243,8 +243,8 @@ a#flickr{ background:url(../i/flickr-32x32.png) 0 0 no-repeat;
 	width:32px; 
 	height:32px; 
 	display:block; 
-	text-indent:-9999px; 
-}
+	text-indent:-9999px; }
+
 a#rss{ background:url(../i/feed-32x32.png) 0 0 no-repeat; 
 	width:32px; 
 	height:32px; 
