@@ -104,8 +104,33 @@ div.frm {
 	height:220px;
 	width:177px;
 	float:left;
+	background:#161613;
+	overflow:hidden;
+	border:solid 2px #8399AF;
 	position:relative;
-	margin:0 15px 0px 0;}
+	margin:0 10px 0px 0;}
+
+.product img {
+	position: absolute;
+	top:0;
+	left:0;
+	border:0;}
+
+.boxcaption{
+	float:left;
+	position:absolute;
+	background:#000;
+	height:25px;
+	width:100%;
+	opacity:.8;
+	/*for ie 5-7 */
+	filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+	/*for ie 8*/
+	-MS-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";}
+
+.captionfull .boxcaption {
+	top:260px;
+	left:0;}
 
 .product-last {
 	height:310px;
@@ -115,7 +140,10 @@ div.frm {
 	margin-bottom:0px;}
 
 .details {
-	font:.8em Georgia, Serif;}
+	border:1px solid red;
+	font:.8em Georgia, Serif;
+
+	z-index:5px;}
 
 .addtocart_btn {background:url(../images/sg_buttons.png) no-repeat 0px -56px;
 	display:block;
@@ -124,18 +152,17 @@ div.frm {
 	height:28px;
 	width:84px;
 	padding:0;
-	margin:0 0 0 100px;}
+	margin:0 0 0 120px;}
 
 .addtocart_btn:hover {background-position: 0px -84px;}
 
 .viewcart_btn {background:url(../images/sg_buttons.png) no-repeat 0 0;
 	display:block;
-	border:1px solid red;
 	outline:none;
 	height:28px;
 	width:84px;
 	padding:0;
-	margin:-48px 0 0 0;}
+	margin:-48px 0 0 10px;}
 
 .viewcart_btn:hover {background-position: 0 -28px;}
 
@@ -219,20 +246,21 @@ span.productname {font-size:1.5em;
          display:none;
 }
 #header #social li{ float:left;
-	 margin: 0 0 0 7px;
-}
-a#twitter{ background:url(../i/twitter-32x32.png) 0 0 no-repeat;
-	width:32px;
-	height:32px; 
+	 margin: 0 0 0 7px;}
+
+.facebook { background:url(../images/sg_buttons.png) no-repeat -146px 0;
+	width:25px;
+	height:25px; 
+	display:block;}
+
+.twitter { background:url(../images/sg_buttons.png) no-repeat -171px 0;
+	width:25px;
+	height:25px;
 	display:block;
-	text-indent:-9999px;
-}
-a#facebook{ background:url(../i/facebook-32x32.png) 0 0 no-repeat;
-	width:32px;
-	height:32px;
-	display:block;
-	text-indent:-9999px;
-}
+	position:absolute;
+	margin-top:-43px;
+	margin-left:600px;}
+
 a#youtube{ background:url(../i/youtube-32x32.png) 0 0 no-repeat;
 	width:32px;
 	height:32px;
@@ -243,8 +271,8 @@ a#flickr{ background:url(../i/flickr-32x32.png) 0 0 no-repeat;
 	width:32px; 
 	height:32px; 
 	display:block; 
-	text-indent:-9999px; 
-}
+	text-indent:-9999px; }
+
 a#rss{ background:url(../i/feed-32x32.png) 0 0 no-repeat; 
 	width:32px; 
 	height:32px; 

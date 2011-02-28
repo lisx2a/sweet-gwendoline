@@ -14,7 +14,7 @@
 			<table>
 				<tr>
 				<td><input type="hidden" name="on0" value="Size">Size</td>
-				<td width="30px"></td>
+				<td ></td>
 				<td><input type="hidden" name="on1" value="Colors">Colors</td>
 				</tr>
 				<tr>
@@ -29,15 +29,13 @@
 					<option value="Chocolate">Chocolate </option>
 				</select> </td></tr>
 				</table><br />
-<input class="addtocart_btn"  type="image"  name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input class="addtocart_btn"  type="image"  name="submit" alt="">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
 
-<form style="margin-top:-25px;" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
 <input type="hidden" name="display" value="1">
-<input class="viewcart_btn" type="image"  name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input class="viewcart_btn" type="image"  name="submit" alt="">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 	</div>
