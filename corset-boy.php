@@ -3,7 +3,11 @@
 <div id="productpage_container">
 			<p style="width:270px;margin-left:34px;padding-top:40px;"><span class="productname">CORSETED BOY BEATER</span><br /></p>
 		<div style="margin:-50px 0 0 584px;position:absolute;font-size:.95em"><a href="collection.php">return to Collection</a></div>
+<<<<<<< HEAD
 								<br /><p style="width:270px;margin: 0px 0 0 34px;font-family:Trebuchet MS;">
+=======
+		<br /><p style="width:270px;margin: 0px 0 0 34px;font-family:Trebuchet MS;">
+>>>>>>> staging
 				Our Corseted Boy Beater takes a little of what's on the inside and celebrates it on the outside. A fully corseted back makes this piece a one of a kind temptation.<br /><br />Always taking it a step further, Sweet Gwendoline will be pushing the boundaries of Tradition.</p><br />
 				<ul style="margin-left:34px;font-size:.8em; font-style:oblique;">
 							<li>available only in White</li>
@@ -32,10 +36,22 @@
 						<option value="Large">Large </option>
 						</select> </td></tr>
 					</table></table>
+<<<<<<< HEAD
 						<input class="addtocart_btn" style="margin:-20px 0 0 190px;position:absolute;" type="image"  name="submit" alt="">
 						<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 
 <input class="viewcart_btn" style="margin:-40px 0 0 95px" type="image"  name="submit" alt="">
+=======
+						<input class="addtocart_btn" style="margin:-28px 0 0 200px;position:absolute;" type="image"  name="submit" alt="">
+						<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+					</form>
+					
+					<form style="margin:-35px 0 0 90px;" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_cart">
+<input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
+<input type="hidden" name="display" value="1">
+<input class="viewcart_btn" type="image"  name="submit" alt="">
+>>>>>>> staging
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 	</div>
@@ -46,7 +62,7 @@
 						<div style="float:right; margin: -560px 55px 34px 0;">
 										<img src="product_images/corseted-boy-front.png" width="356px" />
 						</div>
-						<div style="float:right; margin: -180px 450px 0 0;">
+						<div style="float:right; margin: -220px 450px 0 0;">
 							<img src="product_images/corseted-boy-back.png" width="233px" />
 						</div>
 

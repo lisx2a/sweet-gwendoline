@@ -1,7 +1,11 @@
 <?php require_once 'header.php'; ?>
 		<div id="productpage_container">	<p style="width:270px;margin-left:34px;padding-top:40px;"><span class="productname">BUTTERFLY IN HEELS</span><br /></p>
 		<div style="margin:-50px 0 0 584px;position:absolute;font-size:.95em"><a href="collection.php">return to Collection</a></div>
+<<<<<<< HEAD
 								<br /><p style="width:270px;margin: 0px 0 0 34px;font-family:Trebuchet MS;">
+=======
+		<br /><p style="width:270px;margin: 0px 0 0 34px;font-family:Trebuchet MS;">
+>>>>>>> staging
 										 Come out of your cocoon in our women's slim fot short sleeve v-neck tee. Perfect fit; shows just enough to make things interesting.</p><br />
 								<ul style="margin-left:34px;font-size:.8em; font-style:oblique;">
 									<li>available in Cream and Chocolate</li>
@@ -20,8 +24,13 @@
 
 						<table>
 							<tr>
+<<<<<<< HEAD
 								<td><input type="hidden" name="on0" value="Sizes">Sizes</td>
 								<td></td>
+=======
+								<td><input type="hidden" name="on0" value="Size">Size</td>
+								<td ></td>
+>>>>>>> staging
 								<td><input type="hidden" name="on1" value="Colors">Colors</td>
 							</tr>
 								
@@ -37,6 +46,7 @@
 							</select> </td>
 							</tr>
 						</table><br />
+<<<<<<< HEAD
 						<input class="addtocart_btn"  type="image"  name="submit" alt="">
 						<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 
@@ -48,6 +58,17 @@
 
 </div>
 
+=======
+<input class="addtocart_btn"  type="image"  name="submit" alt="">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+<input type="hidden" name="cmd" value="_cart">
+<input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
+<input type="hidden" name="display" value="1">
+<input class="viewcart_btn" type="image"  name="submit" alt="">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+	</div>
+>>>>>>> staging
 <a href="waspwaist.php"><div class="arrowleft" ></div></a>
 	<a href="about-this-tank.php"><div class="arrowright"></div></a>
 

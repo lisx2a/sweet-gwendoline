@@ -1,8 +1,13 @@
 <?php require_once 'header.php'; ?>
 		<div id="productpage_container">	
 		<p style="width:270px;margin-left:34px;padding-top:40px;"><span class="productname">WENCH BOY BEATER</span><br /></p>
+<<<<<<< HEAD
 		<div style="margin:-50px 0 0 584px;position:absolute;font-size:.95em"><a href="collection.php">return to Collection</a></div>
 								<br /><p style="width:270px;margin: 0px 0 0 34px;font-family:Trebuchet MS;">
+=======
+		<div style="margin:-50px 0 0 584px;position:absolute;font-size:.95em"><a href="collection.php">return to collection</a></div>
+		<br /><p style="width:270px;margin: 0px 0 0 34px;font-family:trebuchet ms;">
+>>>>>>> staging
 										It's our twist on the classic rib tank. A fitted body with a lace up front gives you an elegent extra to accent your form.</p><br />
 										<ul style="margin-left:34px;font-size:.8em; font-style:oblique;">
 											<li>available in White only</li>
@@ -29,7 +34,13 @@
 </table><br />
 <input class="addtocart_btn"type="image"  name="submit" alt="">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+<<<<<<< HEAD
 
+=======
+<input type="hidden" name="cmd" value="_cart">
+<input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
+<input type="hidden" name="display" value="1">
+>>>>>>> staging
 <input class="viewcart_btn" type="image"  name="submit" alt="">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
@@ -37,7 +48,7 @@
 <a href="mesh-lace.php"><div class="arrowleft" ></div></a>
 	<a href="teacup.php"><div class="arrowright"></div></a>
 
-						<div style="float:right; margin: -400px 55px 34px 0;">
+						<div style="float:right; margin: -420px 55px 34px 0;">
 										<img src="product_images/wench-boy-beater.png" width="356px" />
 						</div>
 						<div style="float:right; margin: -65px 21px 0 0;">

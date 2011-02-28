@@ -1,7 +1,11 @@
 <?php require_once 'header.php'; ?>
 		<div id="productpage_container">	<p style="width:230px;margin-left:34px;padding-top:40px;"><span class="productname">PRETTY POLLY</span><br /></p>
 		<div style="margin:-50px 0 0 584px;position:absolute;font-size:.95em"><a href="collection.php">return to Collection</a></div>
+<<<<<<< HEAD
 								<br /><p style="width:270px;margin: 0px 0 0 34px;font-family:Trebuchet MS;">
+=======
+		<br /><p style="width:270px;margin: 0px 0 0 34px;font-family:Trebuchet MS;">
+>>>>>>> staging
 										Don't get caught without our women's slim fit basic rib tank. Molds to the body and fits
 										like a glove every time.</p><br />
 										<ul style="margin-left:34px;font-size:.8em; font-style:oblique;">
@@ -37,6 +41,12 @@
 </table><br />
 <input class="addtocart_btn" type="image" name="submit" alt="">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+<<<<<<< HEAD
+=======
+<input type="hidden" name="cmd" value="_cart">
+<input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
+<input type="hidden" name="display" value="1">
+>>>>>>> staging
 <input class="viewcart_btn" type="image"  border="0" name="submit" alt="">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
