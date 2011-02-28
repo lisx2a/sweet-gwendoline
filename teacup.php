@@ -1,8 +1,9 @@
 <?php require_once 'header.php'; ?>
 		<div id="productpage_container">
-										
+										  
+		<div style="margin:10px 0 0 584px;position:absolute;font-size:.95em"><a href="collection.php">return to Collection</a></div>
 
-						<div style="float:right; margin: 190px 45px 21px 0;">
+						<div style="float:right; margin: 160px 45px 21px 0;">
 										<img src="product_images/teacup.png" width="656px" />
 						</div>
 		<p style="width:300px; margin-left:34px;padding-top:40px;"><span class="productname">TIED UP FOR TEA</span><br /><br />Tea Cup and Saucer<br /><br />
@@ -21,18 +22,18 @@
 <input type="hidden" name="no_note" value="0">
 <input type="hidden" name="add" value="1">
 <input type="hidden" name="bn" value="PP-ShopCartBF:btn_cart_SM.gif:NonHostedGuest">
-<input class="addtocart_btn" type="image"  name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input class="addtocart_btn" type="image"  name="submit" alt="">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form><form style="margin-top:-25px;" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
 <input type="hidden" name="display" value="1">
-<input class="viewcart_btn" type="image"  name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input class="viewcart_btn" type="image"  name="submit" alt="">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 	</div>
 	
-	<a href="wench-boy.php"><div class="arrowleft" style="margin-top:-340px;"></div></a>
+	<a href="wench-boy.php"><div class="arrowleft" style="margin-top:-440px;"></div></a>
 	<a href="waspwaist.php"><div class="arrowright"></div></a>
 
 

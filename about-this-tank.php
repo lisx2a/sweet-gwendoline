@@ -1,5 +1,7 @@
 <?php require_once 'header.php'; ?>
-		<div id="productpage_container">	<p style="width:300px;margin-left:34px;padding-top:40px;"><span class="productname">ABOUT THESE CORSETS</span><br /><br />
+			<div id="productpage_container">	<p style="width:300px;margin-left:34px;padding-top:40px;"><span class="productname">ABOUT THESE CORSETS</span></p><br />
+		<div style="margin:-50px 0 0 584px;position:absolute;font-size:.95em"><a href="collection.php">return to Collection</a></div>
+		<br /><p style="width:270px;margin: 0px 0 0 34px;font-family:Trebuchet MS;">
 										 Regular-fit cotton jersey scoop-neck tee. Cotton poplin chest pocket and cotton poplin trim detailing give a unique texture with an amazingly soft finish.<br /><br />Sexy and provacative, fit for a queen.</p><br />
 								<ul style="margin-left:34px;font-size:.8em; font-style:oblique;">
 										<li>available in white and black</li>
@@ -44,12 +46,12 @@
 
 	
 				
-						<p style="margin:-55px 0 0 34px; position:relative;width:100px;">Available in: <img src="product_images/whitblack_swatch.png" height="25" /></p>
+						<p style="margin:-75px 0 0 34px; position:relative;width:100px;">Available in: <img src="product_images/whitblack_swatch.png" height="25" /></p>
 
-						<div style="float:right; margin: -430px 55px 34px 0;">
+						<div style="float:right; margin: -500px 55px 34px 0;">
 										<img src="product_images/about-these-corsets-white.png" width="356px" />
 						</div>
-						<div style="float:right; margin: -55px 21px 0 0;">
+						<div style="float:right; margin: -65px 15px 0 0;">
 							<img src="product_images/about-these-corsets-black.png" width="233px" />
 						</div>
 									

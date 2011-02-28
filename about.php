@@ -5,7 +5,7 @@
 			<img src="images/aboutus_header.jpg" alt="Sweet Gwendoline CLothing About Us" />
 
 	<div style="margin:30px 0 0 0;">
-	<p style="line-height:1.3em;font-size:1.1em;margin-bottom:30px;font-family:Trebuchet MS">Inspired by renowned, pioneering bondage artist John Willie, and made infamous by the classic magazine Bizarre, Sweet Gwendoline is back to service you. Believing that all women should embrace their mischievous side, our fashions push the boundaries of flirtatious seduction. A little naughty. <br /><br />Never too nice. Always divinely sexy.</p>
+	<p style="line-height:1.3em;font-size:1.1em;margin-bottom:30px;font-family:Trebuchet MS">Inspired by renowned, pioneering bondage artist John Willie, and made infamous by the classic magazine Bizarre, Sweet Gwendoline is back to service you. Believing that all women should embrace their mischievous side, our fashions push the boundaries of flirtatious seduction. A little naughty. <br />Never too nice. Always divinely sexy.</p>
 	<p style="line-height:1.3em;font-size:1.1em;font-family:Trebuchet MS;">Our adventure begins with simple but provocative tops, combining 40's era elegance with a modern design approach. But it's just the beginning. Look for Sweet Gwendoline to continue exploring erotic scenerios, with figure trimming intimates, exotic footwear and suggestive home décor. Indulge yourself, and delight in the thrill.</p>
 
 	<p style="margin:55px 0 55px 0;line-height:3.9em;"><img style="float:left;width:500px;margin:0 34px 0 0;" src="i/about.jpg" alt="Dirty Larry" id="Larry McGearty" />

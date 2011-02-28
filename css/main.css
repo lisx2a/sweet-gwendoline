@@ -87,6 +87,7 @@ body.splash {
 /*collection*/
 #collection, #updates, #contact, #about_us, { 
 	position:relative;
+	width:100%;
 	margin: 0;}
 
 div.frm { 
