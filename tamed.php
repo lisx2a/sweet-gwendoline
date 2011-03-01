@@ -8,11 +8,12 @@
 										like a glove every time.</p><br />
 										<ul style="margin-left:34px;font-size:.8em; font-style:oblique;">
 											<li>100% cotton</li>
+											<li>available in chocolate, white and chocolate</li>
 											<li>garment dyed &amp; washed for a super soft hand</li>
 										</ul>
 
 										<p style="margin: 15px 0 21px 34px;">$28.00<br /></p>
-			<div style="margin-left:34px;">
+			<div style="margin-left:24px;">
 						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 								<input type="hidden" name="cmd" value="_cart">
 								<input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
@@ -42,21 +43,22 @@
 													<option value="Chocolate">Chocolate </option>
 													</select> </td></tr>
 									</table><br/>
-							<input class="addtocart_btn" type="image"  name="submit" alt="">
+							<input class="addtocart_btn" type="image"  name="submit" alt=" ">
 							<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
 <input type="hidden" name="display" value="1">
-<input class="viewcart_btn" type="image"  name="submit" alt="">
+<input class="viewcart_btn" type="image"  name="submit" alt=" ">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 	</div>
 <a href="pretty-polly.php"><div class="arrowleft" ></div></a>
 	<a href="plead.php"><div class="arrowright"></div></a>
 
-						<p style="margin:-45px 0 0 34px;width:100px;">Available in: <img src="product_images/3color_swatch.png" height="25px" /></p>
+						<p style="margin:-65px 0 0 34px;width:100px;">Available in: <img src="product_images/3color_swatch.png" height="25px" /></p>
+						<p style="margin:15px 0 0 34px;width:100px;">Shown in Chocolate</p>
 
-			<div style="float:right;margin:-424px 30px 0 0px;">
+			<div style="float:right;margin:-464px 30px 0 0px;">
 										<img src="product_images/tamed.png" width="386px" />
 			</div>
 			<div style="float:right;margin:-45px 0 0 -61px;">

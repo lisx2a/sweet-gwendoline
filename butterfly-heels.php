@@ -10,7 +10,7 @@
 								</ul>
 
 										<p style="margin: 15px 0 21px 34px;">$33.00<br /></p>
-						<div style="margin-left:34px;">
+						<div style="margin-left:24px;">
 			<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 				<input type="hidden" name="cmd" value="_s-xclick">
 				<input type="hidden" name="hosted_button_id" value="DUA2SHQPPUVTQ">
@@ -33,12 +33,12 @@
 							</select> </td>
 							</tr>
 						</table><br />
-<input class="addtocart_btn"  type="image"  name="submit" alt="">
+<input class="addtocart_btn"  type="image"  name="submit" alt=" ">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
 <input type="hidden" name="display" value="1">
-<input class="viewcart_btn" type="image"  name="submit" alt="">
+<input class="viewcart_btn" type="image"  name="submit" alt=" ">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 	</div>
@@ -46,7 +46,8 @@
 	<a href="about-this-tank.php"><div class="arrowright"></div></a>
 
 	
-						<p style="margin:-15px 0 0 34px; position:absolute;width:100px;">Available in: <img src="product_images/creamcoco_swatch.png" height="25px" /></p>
+						<p style="margin:-55px 0 0 34px; position:absolute;width:100px;">Available in: <img src="product_images/creamcoco_swatch.png" height="25px" /></p>
+						<p style="margin:15px 0 0 34px; position:absolute;width:100px;">Shown in Chocolate</p>
 
 						<div style="float:right; margin: -400px 45px 44px 0;">
 										<img src="product_images/butterfly-in-heels.png" width="356px" />

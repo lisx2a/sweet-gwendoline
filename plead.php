@@ -6,10 +6,11 @@
 										like a glove every time.</p><br />
 										<ul style="margin-left:34px;font-size:.8em; font-style:oblique;">
 											<li>100% cotton </li>
+											<li>available in white and chocolate</li>
 											<li>garment dyed &amp; washed for a super soft hand</li>
 										</ul>
 										<p style="margin: 15px 0 21px 34px;">$28.00<br /></p>
-						<div style="margin-left:34px;">
+						<div style="margin-left:24px;">
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
@@ -40,12 +41,12 @@
 	</select> </td>
 	</tr>
 </table><br />
-<input class="addtocart_btn" type="image"  name="submit" alt="">
+<input class="addtocart_btn" type="image"  name="submit" alt=" ">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
 <input type="hidden" name="display" value="1">
-<input class="viewcart_btn" type="image"  name="submit" alt="">
+<input class="viewcart_btn" type="image"  name="submit" alt=" ">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 	</div>
@@ -53,7 +54,8 @@
 	<a href="mistress.php"><div class="arrowright"></div></a>
 
 
-						<p style="margin:-15px 0 0 34px; position:absolute;width:100px;">Available in: <img src="product_images/whitecoco_swatch.png" height="25px" /></p>
+						<p style="margin:-55px 0 0 34px; position:absolute;width:100px;">Available in: <img src="product_images/whitecoco_swatch.png" height="25px" /></p>
+						<p style="margin:15px 0 0 34px; position:absolute;width:100px;">Shown in White</p>
 
 						<div style="float:right; margin: -400px 55px 34px 0;">
 										<img src="product_images/plead.png" width="356px" />

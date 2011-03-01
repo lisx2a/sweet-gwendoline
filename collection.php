@@ -90,7 +90,7 @@
 							</div>
 
 							<div class="product captionfull"><a href="mesh-lace.php">
-											<img src="images/mesh-lace-boy-beater.jpg" style="width:177px;" />
+											<img src="images/mesh-lace-boy-beater.jpg"/>
 												<div class="view" style="position:absolute;margin-top:120px;margin-left:9px;height:25px;width:159px;background:url(images/sg_buttons.png) no-repeat 0 -170px"></div></a>
 											<p class="details"style="margin-top:230px;position:absolute;">Plead Mesh & Lace Boy Beater<br />$48.00<br /></p>
 							</div>

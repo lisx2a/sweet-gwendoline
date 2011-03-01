@@ -13,7 +13,7 @@
 										</ul>
 										<p style="margin: 15px 0 21px 34px;">$28.00<br /></p>
 						
-						<div style="margin-left: 34px;">
+						<div style="margin-left: 24px;">
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
@@ -29,7 +29,7 @@
 <table>
 	<tr>
 		<td><input type="hidden" name="on0" value="Size">Size</td>
-		<td width="30px"></td>
+		<td ></td>
 		<td><input type="hidden" name="on1" value="Colors">Colors</td>
 	</tr>
 	<tr>
@@ -49,7 +49,7 @@
 	</td>
 	</tr>
 </table><br />
-<input class="addtocart_btn" type="image"  border="0" name="submit" alt="">
+<input class="addtocart_btn" type="image"  border="0" name="submit" alt=" ">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
@@ -57,7 +57,7 @@
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
 <input type="hidden" name="display" value="1">
-<input class="viewcart_btn" type="image"  border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input class="viewcart_btn" type="image"  border="0" name="submit" alt=" ">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 	</div>
@@ -66,6 +66,7 @@
 
 
 						<p style="margin:-65px 0 0 34px; position:absolute;width:100px;font-family:Trebuchet MS">Available in: <img src="product_images/whitblack_swatch.png" height=25px; /></p>
+						<p style="margin:15px 0 0 34px; position:absolute;width:100px;font-family:Trebuchet MS">Shown in Black</p>
 
 						<div style="float:right; margin: -400px 55px 34px 0;">
 										<img src="product_images/wasp-waist-white.png" width="356px" />
