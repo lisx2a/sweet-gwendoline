@@ -37,14 +37,17 @@
 <input type="hidden" name="no_note" value="0">
 <input type="hidden" name="add" value="1">
 <input type="hidden" name="bn" value="PP-ShopCartBF:btn_cart_SM.gif:NonHostedGuest">
-<input class="addtocart_btn" type="image"  name="submit" alt="">
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+<input class="addtocart_btn" type="image"  name="submit" value=" ">
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
 <input type="hidden" name="display" value="1">
+<<<<<<< HEAD
 >>>>>>> staging
 <input class="viewcart_btn" type="image"  name="submit" alt="">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+=======
+<input class="viewcart_btn" style="margin-top:-28px;"type="image"  name="submit" value=" ">
+>>>>>>> staging
 </form>
 	</div>
 	

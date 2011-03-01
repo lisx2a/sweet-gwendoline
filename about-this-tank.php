@@ -44,13 +44,13 @@
 					<option value="Chocolate">Chocolate </option>
 				</select> </td></tr>
 				</table><br />
-<input class="addtocart_btn"  type="image"  name="submit" alt="">
+<input class="addtocart_btn"  type="image"  name="submit" alt=" ">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
 <input type="hidden" name="display" value="1">
-<input class="viewcart_btn" type="image"  name="submit" alt="">
+<input class="viewcart_btn" type="image"  name="submit" alt=" ">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 	</div>
@@ -68,11 +68,16 @@
 						<div style="float:right; margin: -85px 21px 0 0;">
 =======
 						<p style="margin:-75px 0 0 34px; position:relative;width:100px;">Available in: <img src="product_images/whitblack_swatch.png" height="25" /></p>
+						<p style="margin:25px 0 0 34px; position:relative;width:100px;">Shown in Black</p>
 
-						<div style="float:right; margin: -500px 55px 34px 0;">
+						<div style="float:right; margin: -570px 55px 34px 0;">
 										<img src="product_images/about-these-corsets-white.png" width="356px" />
 						</div>
+<<<<<<< HEAD
 						<div style="float:right; margin: -65px 15px 0 0;">
+>>>>>>> staging
+=======
+						<div style="float:right; margin: -125px 10px 0 0;">
 >>>>>>> staging
 							<img src="product_images/about-these-corsets-black.png" width="233px" />
 						</div>

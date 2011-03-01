@@ -37,20 +37,28 @@
 						</select> </td></tr>
 					</table></table>
 <<<<<<< HEAD
+<<<<<<< HEAD
 						<input class="addtocart_btn" style="margin:-20px 0 0 190px;position:absolute;" type="image"  name="submit" alt="">
 						<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 
 <input class="viewcart_btn" style="margin:-40px 0 0 95px" type="image"  name="submit" alt="">
 =======
 						<input class="addtocart_btn" style="margin:-28px 0 0 200px;position:absolute;" type="image"  name="submit" alt="">
+=======
+						<input class="addtocart_btn" style="margin:-30px 0 0 200px;position:absolute;" type="image"  name="submit" alt=" ">
+>>>>>>> staging
 						<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 					</form>
 					
-					<form style="margin:-35px 0 0 90px;" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+					<form style="margin:-20px 0 0 90px;" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
 <input type="hidden" name="display" value="1">
+<<<<<<< HEAD
 <input class="viewcart_btn" type="image"  name="submit" alt="">
+>>>>>>> staging
+=======
+<input class="viewcart_btn" type="image"  name="submit" alt=" ">
 >>>>>>> staging
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>

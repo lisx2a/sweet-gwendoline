@@ -30,7 +30,7 @@
 	<option value="Large">Large </option>
 </select> </td></tr>
 </table><br />
-<input class="addtocart_btn" type="image"  name="submit" alt="">
+<input class="addtocart_btn" type="image"  name="submit" alt=" ">
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 <<<<<<< HEAD
 
@@ -38,8 +38,12 @@
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
 <input type="hidden" name="display" value="1">
+<<<<<<< HEAD
 >>>>>>> staging
 <input class="viewcart_btn" type="image"  name="submit" alt="">
+=======
+<input class="viewcart_btn" type="image"  name="submit" alt=" ">
+>>>>>>> staging
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 	</div>

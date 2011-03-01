@@ -51,8 +51,8 @@
 
 
 
-<div id="navbar" ><div style="width:180px;margin-left:600px;margin-top:5px;position:absolute;"><a href="http://www.facebook.com"><div class="facebook"></div><p style="margin:-22px 0 0 35px;position:absolute;">Stay Connected</a></div>
-	<div style="width:190px;margin-left:-150px;margin-top:48px;position:absolute"><div class="twitter"></div><a style="display:block;width:80px;margin:-40px 0 0 635px;position:absolute;" href="#">Follow Us</a></div>
+<div id="navbar" ><div style="width:180px;margin-left:600px;margin-top:5px;position:absolute;"><a href="http://www.facebook.com/pages/Sweet-Gwendoline-Clothing/165784003453273"><div class="facebook"></div><p style="margin:-22px 0 0 35px;position:absolute;">Stay Connected</a></div>
+	<div style="width:190px;margin-left:-150px;margin-top:48px;position:absolute"><div class="twitter"></div><a style="display:block;width:80px;margin:-40px 0 0 635px;position:absolute;" href="http://twitter.com/SweetGwendolin">Follow Us</a></div>
 
 	<ul>
 		<li><a href="collection.php"><img src="images/sglogo_small.png" style="width:250px;display:block;float:left;"/></a></li>

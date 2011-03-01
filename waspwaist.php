@@ -13,6 +13,7 @@
 										</ul>
 										<p style="margin: 15px 0 21px 34px;">$28.00<br /></p>
 						
+<<<<<<< HEAD
 		<div style="margin-left: 24px;">
 
 			<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -55,9 +56,62 @@
 
 		<a href="collection.php"><div class="arrowleft" ></div></a>
 		<a href="butterfly-heels.php"><div class="arrowright"></div></a>
+=======
+						<div style="margin-left: 24px;">
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_cart">
+<input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
+<input type="hidden" name="lc" value="US">
+<input type="hidden" name="item_name" value="Wasp Waist">
+<input type="hidden" name="amount" value="28.00">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="button_subtype" value="products">
+<input type="hidden" name="no_note" value="0">
+<input type="hidden" name="shipping" value="28.00">
+<input type="hidden" name="add" value="1">
+<input type="hidden" name="bn" value="PP-ShopCartBF:btn_cart_SM.gif:NonHostedGuest">
+<table>
+	<tr>
+		<td><input type="hidden" name="on0" value="Size">Size</td>
+		<td ></td>
+		<td><input type="hidden" name="on1" value="Colors">Colors</td>
+	</tr>
+	<tr>
+		<td>
+		<select name="os0">
+			<option value="Small">Small </option>
+			<option value="Medium">Medium </option>
+			<option value="Large">Large </option>
+			</select> 
+	</td>
+	<td></td>
+		<td>
+		<select name="os1">
+			<option value="White">White </option>
+			<option value="Black">Black </option>
+		</select>
+	</td>
+	</tr>
+</table><br />
+<input class="addtocart_btn" type="image"  border="0" name="submit" alt=" ">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+<form style="margin-top:-25px; width:84px;" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_cart">
+<input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
+<input type="hidden" name="display" value="1">
+<input class="viewcart_btn" type="image"  border="0" name="submit" alt=" ">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+	</div>
+<a href="collection.php"><div class="arrowleft" ></div></a>
+	<a href="butterfly-heels.php"><div class="arrowright"></div></a>
+>>>>>>> staging
 
 
 						<p style="margin:-65px 0 0 34px; position:absolute;width:100px;font-family:Trebuchet MS">Available in: <img src="product_images/whitblack_swatch.png" height=25px; /></p>
+						<p style="margin:15px 0 0 34px; position:absolute;width:100px;font-family:Trebuchet MS">Shown in Black</p>
 
 						<div style="float:right; margin: -400px 55px 34px 0;">
 										<img src="product_images/wasp-waist-white.png" width="356px" />
