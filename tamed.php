@@ -3,17 +3,13 @@
 
 	<p style="width:270px;margin-left:34px;padding-top:40px;"><span class="productname">TAMED</span><br /></p>
 		<div style="margin:-50px 0 0 584px;position:absolute;font-size:.95em"><a href="collection.php">return to Collection</a></div>
-<<<<<<< HEAD
 								<br /><p style="width:270px;margin: 0px 0 0 34px;font-family:Trebuchet MS;">
-=======
 		<br /><p style="width:270px;margin: 0px 0 0 34px;font-family:Trebuchet MS;">
->>>>>>> staging
-										The women's slim fit basic rib tank. All the pleasure without the pain. Molds to the body and fits
-										like a glove every time.</p><br />
+										Loose control with our women's slim fit short sleeve mitered v-neck tee. Perfect fit and shows just enough to make it interesting.</p><br />
 										<ul style="margin-left:34px;font-size:.8em; font-style:oblique;">
 											<li>100% cotton</li>
 											<li>available in chocolate, white and chocolate</li>
-											<li>garment dyed &amp; washed for a super soft hand</li>
+											<li>garment dyed &amp; washed for a super soft feel</li>
 										</ul>
 
 <<<<<<< HEAD
