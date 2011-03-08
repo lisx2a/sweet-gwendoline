@@ -107,7 +107,7 @@ div.frm {
 	float:left;
 	background:#161613;
 	position:relative;
-	margin:0 15px 0px 0;}
+	margin:0 15px 50px 0;}
 
 
 .product img {
@@ -137,7 +137,7 @@ div.frm {
 
 .details {
 	font:.8em Georgia, Serif;
-
+	margin-top:250px;
 	z-index:5;}
 
 .addtocart_btn {background:url(../images/sg_buttons.png) no-repeat 0px -56px;
