@@ -3,6 +3,8 @@
 
 	<p style="width:270px;margin-left:34px;padding-top:40px;"><span class="productname">TAMED</span><br /></p>
 		<div style="margin:-50px 0 0 584px;position:absolute;font-size:.95em"><a href="collection.php">return to Collection</a></div>
+	<p style="width:270px;margin-left:34px;padding-top:30px;"><span class="productname">TAMED</span><br /></p>
+		<div style="margin:-40px 0 0 584px;position:absolute;font-size:.95em"><a href="collection.php">return to Collection</a></div>
 								<br /><p style="width:270px;margin: 0px 0 0 34px;font-family:Trebuchet MS;">
 		<br /><p style="width:270px;margin: 0px 0 0 34px;font-family:Trebuchet MS;">
 										Loose control with our women's slim fit short sleeve mitered v-neck tee. Perfect fit and shows just enough to make it interesting.</p><br />
@@ -11,21 +13,15 @@
 											<li>available in chocolate, white and chocolate</li>
 											<li>garment dyed &amp; washed for a super soft feel</li>
 										</ul>
-
-<<<<<<< HEAD
 										<p style="margin: 15px 0 21px 34px;">$33.00<br /></p>
-=======
 										<p style="margin: 15px 0 21px 34px;">$28.00<br /></p>
->>>>>>> staging
+										<p style="margin: 15px 0 21px 34px;">$33.00<br /></p>
 			<div style="margin-left:24px;">
 						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="ZW6RKYDSFXTPL">
 <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
 ">
-
-
-
 <table>
 											<tr>
 											<td><input type="hidden" name="on0" value="Size">Size</td>
@@ -46,34 +42,29 @@
 									</table><br/>
 							<input class="addtocart_btn" type="image"  name="submit" alt=" ">
 							<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
-<<<<<<< HEAD
-=======
 <input type="hidden" name="cmd" value="_cart">
 <input type="hidden" name="business" value="jj@sweetgwendolineclothing.com">
 <input type="hidden" name="display" value="1">
-<<<<<<< HEAD
->>>>>>> staging
-<input class="viewcart_btn" type="image"  name="submit" alt="">
-=======
 <input class="viewcart_btn" type="image"  name="submit" alt=" ">
->>>>>>> staging
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 	</div>
 <a href="pretty-polly.php"><div class="arrowleft" ></div></a>
 	<a href="plead.php"><div class="arrowright"></div></a>
 
-<<<<<<< HEAD
-						<p style="margin:-85px 0 0 34px;width:100px;">Available in: <img src="product_images/3color_swatch.png" height="25px" /></p>
-=======
 						<p style="margin:-65px 0 0 34px;width:100px;">Available in: <img src="product_images/3color_swatch.png" height="25px" /></p>
 						<p style="margin:15px 0 0 34px;width:100px;">Shown in Chocolate</p>
->>>>>>> staging
 
 			<div style="float:right;margin:-464px 30px 0 0px;">
 										<img src="product_images/tamed.png" width="386px" />
 			</div>
 			<div style="float:right;margin:0px 0 0 -61px;">
+						<p style="margin:-115px 0 0 34px;width:100px;">Available in: <img src="product_images/3color_swatch.png" height="25px" /></p>
+						<p style="margin:10px 0 0 34px;width:100px;">Shown in Chocolate</p>
+			<div style="float:right;margin:-464px 30px 0 0px;">
+										<img src="product_images/tamed.png" width="386px" />
+			</div>
+			<div style="float:right;margin:-20px 0 0 -61px;">
 							<img src="product_images/tamed-in-chocolate.png" width="233px" />
 			</div>
 									
