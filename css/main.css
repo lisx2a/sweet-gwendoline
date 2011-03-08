@@ -102,12 +102,10 @@ div.frm {
 	margin:30px 0 0 0;}
 
 .product {
-	height:220px;
+	height:240px;
 	width:177px;
 	float:left;
 	background:#161613;
-	/*overflow:hidden;
-	border:solid 2px #8399AF;*/
 	position:relative;
 	margin:0 15px 0px 0;}
 
@@ -116,38 +114,25 @@ div.frm {
 	position: absolute;
 	top:0;
 	left:0;
-	border:solid 2px #8399AF;
-	}
-
-/*.boxcaption{
-	float:left;
-	position:absolute;
-	background:#000;
-	height:25px;
-	width:100%;
-	opacity:.8;
-	/*for ie 5-7 */
-	filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
-	/*for ie 8*/
-	-MS-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";}*/
+	border:solid 2px #8399AF;}
 
 .captionfull .boxcaption {
 	top:260px;
 	left:0;}
 
 .product-last {
-	height:220px;
+	height:240px;
 	width:177px;
 	position:relative;
 	float:left;
-	margin-bottom:55px;}
+	background:#161613;
+	margin:0;}
 	
 .product-last img {
 	position: absolute;
 	top:0;
 	left:0;
-	border:solid 2px #8399AF;
-	}
+	border:solid 2px #8399AF;}
 
 
 .details {
